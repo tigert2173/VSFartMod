@@ -1,5 +1,11 @@
 > ⚠️ **Notice:**  
 > This early version of the mod does **not** add any functional changes yet. It simply introduces a toggle option and updates the game's logo.  
+>
+> 💖 **Support Development:**  
+> Modding takes a lot of time and effort — early releases are available first on [Patreon](https://www.patreon.com/YourPatreonHere).  
+> Patrons also get access to **sneak peeks**, **progress updates**, and **behind-the-scenes content**.  
+> Higher-tier patrons may also get a **say in what features get added next** to the mod!  
+> Your support is greatly appreciated and helps drive continued development.  
 >  
 > 💡 **Want to contribute?**  
 > See the [Wiki](../../wiki) for information on contributing or creating your own mod!
