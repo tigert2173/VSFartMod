@@ -1,0 +1,489 @@
+Tag,Explanation
+Anal Insertable,A toy that goes in your butt. Flared base recommended!
+Oral Insertable,A toy that goes in your mouth.
+Vaginal Insertable,A toy that goes in your vagina.
+Oversized Insertable,Insertable toys too big for comfort.
+Two Insertables,Pairs of insertables used for simultaneous oral & anal.
+Knotted Insertable,Insertable with a large knot you can safely insert.
+Sleeve Toy,"Fleshlights, any ''toy'' you can use to stroke."
+Plug,"Buttplugs, insertables with flared bases that you can keep in."
+Condoms,Make sure you have several!
+Gag,"Ballgags, socks, large rags, things that fill your mouth."
+Ring Gag,Gags that allow mouth access.
+Rubber Bands,Something elastic that can be snapped against you.
+Nipple Clamps,Something that clamps onto your nipples and stays there.
+Clothespins,Make sure you have several!
+Vibrator,Any kind of vibrating device.
+Vibrating Insertable,"Vibrating insertable devices, dildos, plugs etc."
+Cane,A thin blunt stick for impact play (Requires the matching interaction in one of the Pain Kinks)
+Whip,A single tailed lash for impact play (Requires the matching interaction in one of the Pain Kinks)
+Paddle,A wide surface for impact play (Requires the matching interaction in one of the Pain Kinks)
+Cock Ring,"A ring that can be worn around the cock, the balls or both."
+Chastity Device,Device that prevents access to your genitals. Use Permanent Status to wear it for the session. Does NOT disable edging or endings - for that use No Touching. 
+Permanent Marker,Any kind of long lasting marker.
+Anal Beads,A string of connected beads that pop in and out of your butt.
+Oil,A slick slatherable fluid you can apply to yourself.
+Ice Cubes,The solid state of water. Make sure you have several!
+Tape,The Handyman's secret weapon.
+Rope,Tie yourself up.
+Ankle Cuffs,Anything that connects your ankles together.
+String,"Shoelaces, etc."
+Straw,A drinking straw for breathplay.
+Pen & Paper,Write lines.
+Mirror,A reflective surface or selfie camera view.
+Panties,"Underwear (perhaps dirty, not necessarily yours)"
+Heels,Must be wearable for you.
+VR Rhythm Games,VR game that has rhythm elements and lasts 3-4m per game.
+Pacifier,Something you can suck on (used with ABDL)
+Baby Bottle,A bottle with a top that can be sucked (used with ABDL)
+Enema,Filling your colon with fluid and holding it in for a while. This DOES NOT give any instructions for the kind of cleaning you should be doing before a session - that remains your responsibility.
+Figging,Peeled ginger root.
+Syrup,A thick slatherable fluid you can apply to yourself.
+Whipped Cream,Something edible you can draw on yourself with.
+Dog Toy,"Dog toys, bones, etc."
+BDSM Candle,Candles specifically made for wax play. Careful!
+Ball Press,Device that constricts your balls and can be tightened or loosened.
+Humbler,Device that restricts your movement by cuffing your balls.
+Chopsticks,"Preferably attached, otherwise bring rubber bands."
+Inflatable Gag,A gag that can be inflated.
+Strapon,Must be wearable by you. Ideal for No Touching sessions.
+Cumtube,Toys or tubes for fake-cum play.
+Fucking Machine,"Dildo-based, must have speed settings."
+Sybian,Must have power settings.
+Handcuffs,"Metal, fuzzy, you name it."
+Toothbrush,A dedicated toothbrush.. or not. (Requires the matching interaction in one of the Pain Kinks)
+Hairbrush,More intense than a toothbrush. (Requires the matching interaction in one of the Pain Kinks)
+Fork,More intense than a hairbrush. (Requires the matching interaction in one of the Pain Kinks)
+Penis Pump,Pump up your penis.
+Clit Pump,Pump up your clit.
+Vagina Pump,Pump up your vagina.
+Nipple Pump,Pump up your nipples.
+Smothering,"Smothering, facesitting, and all kinds of shoving your face places.."
+Farting,"Face-farting, gas clouds, butthole winks, and butt-in-face smothering. Use Low/Medium/High/Constant/Random Gas for pace. No Blackout Smothering keeps FaceSit from filling the lens. Pairs with Smothering and Butt Worship."
+Burping,"She leans into the camera and burps in your face — mouth mist, jaw motion, FaceSit / boob-smother poses. Pair with Smothering for face-close burps."
+Fart Torture,"Heavy fart-focus mode: floods the timed pool with gas-smother scenarios, hands-off humiliation, and denser face-fart FX. Pair with Farting + Smothering. For less edging, also turn on Disable Edging / No Intro Edging in Edging & Ruining."
+No Blackout Smothering,"While FaceSit / ButtFaceSit plays, sits her slightly farther from the lens so the view does not fill/black out. Uses stock poses (safe). Tune SmotherBodyPull in BepInEx config."
+Low Gas,"Burst pace during gas facesit tasks: sparse (~16–35s between). Pick one Gas toggle only."
+Medium Gas,"Burst pace during gas facesit tasks: realistic (~9–22s between). Default. Pick one Gas toggle only."
+High Gas,"Burst pace during gas facesit tasks: busy (~4–9s between). Pick one Gas toggle only."
+Constant Gas,"Burst pace during gas facesit tasks: near-constant bursts. Pick one Gas toggle only."
+Random Gas,"Burst pace during gas facesit tasks: randomly shifts Low/Medium/High/Constant over the session. Pick one Gas toggle only."
+Headplay,Stimulation focused around the head of your dick.
+Anal,(Player) Anal Play
+Oral,(Player) Sucking & Deepthroating
+Nipples,"Pulling/twisting nipples, rubbing, clamps pulling, etc."
+Frenulum,The sensitive part under the head of your penis.
+Taint,The area between your genitalia and anus.
+CBT: Balls,"Balls Torture (Slaps, flicks, etc)"
+CBT: Cock,"Cock Torture (Slaps, flicks, etc)"
+Butt Worship,Focus on her butt.
+Breast Worship,Focus on her breasts.
+Crotch Worship,Focus on her crotch.
+Belly Worship,Focus on her belly.
+Thigh Worship,Focus on her thighs.
+Feet,Focus on her feet.
+Armpit,Focus on her armpits.
+Service Acts,"(Player) Assjobs, thighjobs, etc. Requires an insertable."
+Clothing,Tasks that involve wearing things or your clothed state (Naked etc).
+Workout,Do excersizes for her.
+Really Forced Orgasms,"Prevents you from disobeying during ""Forced Orgasm"" sessions."
+PCEI,Precum Eating Instructions.
+Humping,Humping nearby objects or surfaces
+Pet Play,Being Succu-chan's little pet.
+Exhibitionism,Risk other people seeing you.
+Recording,Tasks that involve recording yourself in some way.
+Degradation,She will use degrading dialogue and make you do humiliating things.
+Filthiness,"""Disgusting"" or dirty acts."
+Feminization,Making you act feminine.
+Piss Drinking,Drinking your own pee.
+Watersports,"Your watersports — standing self-piss when she orders it. Not foot/face or FaceSit. For her peeing on your face, use Her Watersports + Smothering instead."
+ABDL,(Adult Baby / Diaper Lover)
+Selfies,Tasks that involve taking pictures during sessions.
+No Counted Tasks,Disables Counted Tasks.
+Punishment Counted,"Gives counted tasks as punishment. Overrides ""No Counted Tasks""."
+Punishment Positions,Positions are only given during bad moods.
+No Metronome,Disables Metronome Tasks.
+No Warmup,Removes the pleasurable instructions in the intro to sessions.
+No Holidays,Disables holiday events.
+No Begging,Removes begging prompts from the ending.
+Painless,Fully removes pain related instructions. Note that this limits variety.
+Both Sexes,Enables most tasks exclusively offered to the opposite genitals.
+Rhythm Punishment,Punishments are rhythm events.
+No Rhythm Edging,Disables the edging part of Rhythm Events.
+No Oral Fingering,Only allows Oral with Insertables.
+No Anal Fingering,Only allows Anal with Insertables.
+Soft Touch,Removes most fast/tight/rough pleasure tasks.
+No Counting,Prevents her from asking you to count.
+Never CEI,"Disables all mentions of CEI in-game, unless enabled."
+Soft Time Limit,Sessions can get extended beyond their time limit.
+Untimed,Counted tasks are no longer time-checked.
+Serious,Prevents her from being mischievous.
+Yandere,Succu-chan becomes obsessed and possessive.
+Vampire,Gives Succu-chan longer fangs and vampiric tendencies.
+Commanding,"Tasks are almost always given in a commanding tone, regardless of her mood."
+Demeaning,Pronouns are always replaced by 'It' when using a sub name.
+Always Pronouns,Prevents her from using objectifying pronouns when mad.
+Endless Forced Orgasms,Forced Orgasms sessions can no longer time out.
+Forced Orgasms Ending Override,A Forced Orgasms session's final ending is always a regular release.
+Her Stakes,Succu-chan doesn't give you a choice of stakes.
+Punishment Commandments,You will only be given (mandatory) commandments on bad endings.
+Always Bad Endings,Forces all endings to be punishments. Overrides Good/Random
+Always Good Endings,Forces all endings to be rewards. Overrides Random
+Random Endings,Endings no longer depend on your dedication during the session.
+No Safeword,Disables the safeword button in the in-game menu.
+No Decisions,Disables all decisions besides outfit preference.
+No ASMR,Disables ASMR-style events.
+Edge Punishment,Earning a punishment will also lead to edging.
+No Touching,"Blocks interacting with penis, clit and vagina, prevents edging and prevents endings (guarenteed denial). You want to cum? Turn this off."
+No Punishments,Turns most punishments into neutral tasks.
+Harsh Punishments,Significantly worsens punishments.
+Short Fuse,Succu-chan gets furious easily.
+Sadistic Mode,Succu-chan will randomly punish you.. Just for fun!
+Devious,Mischievous guarantees punishments.
+Merciless,[NAMEREPLACEMENT] never shows mercy.
+Ruthless,Succu-chan feels ruthlessly teasing. Fairness is off the table. (Pleased always becomes Mischievous)
+Strict,[NAMEREPLACEMENT] is significantly less lenient to brats.
+Pretending,[NAMEREPLACEMENT] will drop the act at the end of sessions.
+Masochist Mode,Rewards are now punishments. Punishments are now timeouts.
+No Stakes,Disables session stakes.
+No Habit Requests,She won't ask you for additional habits.
+Hidden Timers,Timed tasks now always hide the timer.
+Hidden Mood,Hides Succu-chan's mood from you. Read her expressions!
+Hide Archetype,Hides the Reward/Punishments popups.
+Polyamory,Succu-chan no longer expects you to be her exclusive toy.
+Independent,Succu-chan will be satisfied even if you don't visit her frequently.
+Themed Session,"A regular session, but your succubus will focus on a theme for the entire session. Requires the appropriate toggles to support this theme."
+Rhythm Session,A session primarily composed of rhythm events. Make sure you've set up your rhythm event settings correctly!
+Taskmaster Session,The lewdest to-do list you can get! Ask your succubus to make you perform various tasks. Options are available to make it non-sexual.
+Toys Session,A session exclusively using bluetooth toys! Allow your succubus to toy with you fully.
+Training Session,Train various aspects of your kinky life with your succubus! A perfect warmup to make your next session harsher.
+Ask your succubus to choose session length,Your succubus will choose the session's length from all available options depending on your current situation.
+Quickies,A quick session that allows you to play with your succubus when time is short. She expects you to come prepared.
+Regular Quickie,A quick session involving edging.
+Free Quickie,Your succubus will watch you get off your own way.
+Rhythm Quickie,A quick rhythm event that will last until you finish.
+Praise,She will praise you for your obediance.
+Positioning,Strike a pose to show off your statuesque physique.
+Events,Events too powerful for regular tasks to contain!
+Endings,Choose (or don't) just how surprising the end of your session can be.
+Post-Oops,"Yup, that's me. You're probably wondering how I ended up in this situation."
+Naming,The fun kind of name calling.
+Chastity,Don't want to cum? Succu-chan would be (perhaps a bit too) pleased to oblige you. Does not require a chastity device!
+Collaring,Wear a collar for Succu-chan! A classic of BDSM presented here for the discerning player.
+Bluetooth Toys,Let her play with you directly through magic! The magic of electromagnetic waves and telecommunications technology.
+Financial Domination,Succu-chan wants tribute! Can be used for FREE. All deposits are unenforced.
+Scheduling,Succu-chan is busy too! Give her your availability so she can schedule your next session.
+Duties,Just because the session ends doesn't mean the tasks do. Succu-chan wants you to complete these between sessions.
+Commandments,Always keep Succu-chan on your mind by modifying your behavior until your next session.
+Habits,Succu-chan wants to help you maintain good habits. Or lewd habits. Lewd is good right? Right.
+Player Outfits,Don't be a slob. Get dressed up for Succu-chan.
+Player Accessories,Accessorize your outfit for Succu-chan. You can even accessorize your birthday suit if you want.
+Difficulties,How hard do you like it?
+Stroking Types,Tell Succu-chan what feels good for you.
+One-hand Mode,Disables tasks that require two hands.
+Silent Mode,Disables loud tasks.
+No Legs,Lets her know your legs are occupied.
+No Anal,Lets her know your butt is occupied.
+No Stroking,Lets her know your dick is occupied.
+Edging Minimum Time Required,The minimum session time before she will start asking you to edge. Using Edge Stop will also let her know you're ready to start edging.
+Timed Task Max Length,The maximum duration for timed tasks.
+Counted Task Max Count,The maximum number for counted tasks. (Taunting not included)
+Ending Her Preference,Let her choose your ending based on how sadistic she feels today. (Does not include CEI)
+Easy Endings,Succu-chan will be easier on you during the ending.
+No Teasing,Removes the teasing segment from the ending.
+Orgasm After Ruin,A ruined orgasm ending will be followed by another ending with a regular release.
+No Fake Endings,Prevents her from faking-out the ending.
+Simple CEI,"Gives simple, direct cum eating instructions with no followups. Overrides Beginner CEI. A simple meal without the bells and whistles."
+Beginner CEI,"Gives easy, low commitment cum eating instructions with no followups. Kind of like a free sample."
+Post-Ruin CEI,Only be instructed to eat your cum after a ruined orgasm.
+Witch,Prepare yourself for a hex of a good time! Complete with wand and witch hat.
+Require Daily Training,Succu-chan will expect you to show up for training every day.
+In-training Edging,Take a break by edging.
+Degradation Training,Repeat degrading phrases.
+Obedience Training,Reinforce your obedience.
+Plugged While Training,Wear a buttplug during training. Begins after Anal training if that is enabled.
+Workout Training,Set your workout routine. She will choose one area to focus on. (Upper Body/Lower Body/Core)
+Anal Training,Train your ass. Requires at least one of the following toggles.
+(Anal) Insertion Training,Practice inserting things into your butt.
+(Anal) Knotting Training,Practice taking the knot on your toy.
+(Anal) Plug Insertion Training,Practice with your buttplug.
+(Anal) Finger Stretching,Stretch your asshole with your fingers.
+(Anal) Thrusting Machine,Practice getting fucked in the ass by a machine.
+Oral Training,Train your ability to get things into your mouth. Requires at least one of the following toggles.
+(Oral) Deepthroat Training,Practice holding a toy deep in your throat.
+(Oral) Throatfuck Training,Practice repeatedly fucking your throat with a toy.
+(Oral) Thrusting Machine,Practice getting fucked in the face by a machine.
+Breathplay Training,Improve your lung capacity.
+Kegels Training,Train your kegel muscles.
+(Kegels) Positioning,Practice doing kegels in various positions. Uses the options you set in Positioning.
+Disable Fadeout,Disable instructions fading out after 10 seconds.
+Single Tap Button,Button input is accepted even when instructions are faded out.
+Timer Fadeout,The timer will also fade out after 10 seconds.
+No Button Labels,Removes the keybind labels on buttons.
+No Rhythm UI,Removes the shrinking ring UI from rhythm events.
+Darker Text Backgrounds,Darkens the background on the instruction text to provide more contrast.
+Notch Adjust,Adjustment for notched mobile devices.
+Disable Debug,Disables the debug text at the top of the screen. If you report a bug with this on we will be mad.
+No Post Processing,Affects the colors of the game.
+No Background,Removes the environmental background.
+FPS Counter,Adds an FPS counter.
+No Bloom,Disables bloom.
+No Particles,Disables particles. Requires a restart to affect the main menu.
+Devotion,Increase your devotion by enabling settings marked by this icon.
+No Penetration,Lets her know your vagina is occupied.
+No Clit,Lets her know your clit is occupied.
+Vaginal Penetration,Tell Succu-chan what feels good for your vagina.
+Clit Interactions,Tell Succu-chan what feels good for your clit.
+No Plugged Interactions,Plug interactions will not be given while already plugged.
+Only Plugged Interactions,Plug interactions will only be given while already plugged.
+Small Plug,A plug that you can easily insert
+Medium Plug,A plug that takes some work to insert
+Large Plug,A plug that takes a lot of work to insert
+Vibrating Plug,A plug that vibrates
+Tail Plug,A plug with an animal tail on the end
+Inflatable Plug,A plug that can be inflated
+Small Anal Insertable,An insertable that you can easily fit in your ass
+Medium Anal Insertable,An insertable that takes some work to fit in your ass
+Large Anal Insertable,An insertable that is difficult to fit in your ass
+Vibrating Anal Insertable,An insertable that vibrates and goes in your ass
+Knotted Anal Insertable,An insertable with a thick knot that goes in your ass
+Small Vaginal Insertable,An insertable that you can easily fit in your vagina
+Medium Vaginal Insertable,An insertable that takes some work to fit in your vagina
+Large Vaginal Insertable,An insertable that is difficult to fit in your vagina
+Vibrating Vaginal Insertable,An insertable that vibrates and goes in your vagina
+Knotted Vaginal Insertable,An insertable with a thick knot that goes in your vagina
+Service Toy,"A toy for simulating service acts that is typically penis shaped (Required for Service Kinks, does nothing on its own)"
+Service Sleeve,"A toy for simulating service acts typically vagina or anus shaped (Required for the Cunnilingus Kink, does nothing on its own)"
+Crop,A thin stick with a flexible end for impact play (Requires the matching interaction in one of the Pain Kinks)
+Flogger,A multi-tailed lash for impact play (Requires the matching interaction in one of the Pain Kinks)
+Poker,A pointed object (Requires the matching interaction in one of the Pain Kinks)
+Pinwheel,A rollable device with pointed spokes (Requires the matching interaction in one of the Pain Kinks)
+Zapper,Something you can zap yourself with (Requires the matching interaction in one of the Pain Kinks)
+Footwear,Not for you to wear
+Chew Toy,"Toys for chewing on, typically for pets"
+Diaper,Make sure it's in your size (used with ABDL)
+Penis Stimulation,Stroking your penis
+Palming,Rubbing the head of the penis with the flat palm of your hand
+Frenulum Stimulation,Located on the bottom of the penis just below the head
+Balls Stimulation,You don't have to be in the circus to juggle these balls
+Clitoral Stimulation,Playing with your clit
+Vaginal Fingering,Use fingers around and in your vagina
+Anal Fingering,Use fingers around and in your butt
+Nipple Stimulation,Pleasently tease your nipples
+Breast Stimulation,Nicely touch your breasts
+Caress,Touching yourself in a generally soothing manner
+Cock Torture,"Shockingly, this is all about hurting your cock (Implement related interactions require enabling the matching Toy)"
+Balls Torture,Would you believe me if I said it doesn't involve hurting your balls? (Implement related interactions require enabling the matching Toy)
+Clit & Vagina Torture,Can you guess what this focuses on? (Implement related interactions require enabling the matching Toy)
+Nipple Torture,Unpleasantly tease your nipples (Implement related interactions require enabling the matching Toy)
+Breast Torture,Want to abuse your breasts? Look no further! (Implement related interactions require enabling the matching Toy)
+Pain,"I'm not gonna lie, this toggle is all painful shit (Implement related interactions require enabling the matching Toy)"
+Tedium,Maybe you find it relaxing. I find it boring. Super boring.
+Cunnilingus,Use your mouth and hands to simulate performing oral sex (Requires Service Sleeve)
+Handjob,Service her using your hands (Requires Service Toy)
+Blowjob,Service her using your mouth (Requires Service Toy)
+Titjob,Service her using your tits (Requires Service Toy)
+Thighjob,Service her using your thighs (Requires Service Toy)
+Assjob,Service her using your ass (Requires Service Toy)
+Pitjob,Service her using your armpit (Requires Service Toy)
+Footjob,Service her using your feet (Requires Service Toy)
+Pussyjob,Service her using your pussy (Requires Service Toy)
+Mouth Fingering,Put your fingers in your mouth
+Self-Degradation,Tell her how pathetic you are (Requires the Speaking Urge or Writing Kink)
+Worship,Let her know how great she is (Requires the Speaking Urge or Writing Kink)
+Begging,Not to be confused with choosing (Requires the Speaking Urge or Writing Kink)
+Apology,You know what you did (Requires the Speaking Urge or Writing Kink)
+Self-Affirmation,Like a boss! (Requires the Speaking Urge or Writing Kink)
+Lust,Verbalize your arousal (Requires the Speaking Urge or Writing Kink)
+Appreciation,Thank her for doing such fine work (Requires the Speaking Urge or Writing Kink)
+Urges,"Quick interactions with her during tasks. When you feel an urge, click on it (or press Spacebar on PC) to give in. Use the gear icon to customize."
+Mind Control,Urges are assumed to always be acted upon and will automatically be pressed without player input.
+Drooling,Drooling all over yourself.
+Breath Play,Hold your breath for various durations.
+Kegels,Do Kegel exercises to improve your endurance.
+Moaning,Succu-chan wants to hear you moan for her. The speaking toggle's drunk cousin.
+Speaking,"Succu-chan wants to hear you - Customize what you say using the Speaking Kinks. You feel the urge to say ""Thank you Question Mark""."
+Eye Contact,Maintain eye contact with her. Don't let yourself be distra - HEY my eyes are up here!
+Puppy-speak,Theme speaking around being a puppy.
+Kitty-speak,Theme speaking around being a kitty.
+Pig-speak,Theme speaking around being a pig.
+Multiple Penetration,Have her make a sandwich - with you as the meat!
+Simultaneous Anal & Oral,"If you think about it, it's basically the two ends of a long tube"
+Simultaneous Anal & Vaginal,Known in some circles as a DP
+Simultaneous Vaginal & Oral,The classic spit-roast
+No Difficulty Progression,Expedited shipping of the biggest toys to your tightest holes.
+Inserted Vaginal Vibe,A toy that vibrates and stays in your pussy
+Socks,"Socks go on feet (perhaps dirty, not necessarily yours)"
+Writing,Write lines (choose which ones in Speaking & Writing) using a variety of methods. You will not be graded on legibility.
+Off-hand Penis Stimulation,"She will occasionally tell you to use your off-hand to stroke your dick. Like switch-hitting, but your penis is the bat."
+Two-hand Penis Stimulation,She will occasionally tell you to use both hands to stroke your dick. Whether they are both yours is up to you.
+Insults,"Periodic insults about about the topics of your choosing. She talks shit, but you still get hit."
+Heartbeats,"Adds an optional rhythmic element to the UI. For those that feel the need, the need for very precise speed."
+Degrading Favor Names,Changes Favor Rank names. Ever wanted to get a high score in being a piece of shit?
+No Pausing,Removes pause instructions from timed task switching. Ain't got time for games? You should probably stop playing one then.
+Timed Task Minimum Switch,The minimum time an instruction lasts before a switch-up during timed tasks. Good if you read slowly - or if you just want her to calm the fuck down.
+Time Limit,Set a range of time for the session to last between min and max.
+Edge Limit,Won't end until she's satisfied you have edged enough times based on the range between min and max.
+Her Choice,She will decide when the session ends. Keeping her in a good mood extends the session.
+Endlessly Beg,She will periodically allow you to beg for the session to end.
+Energy Drain,"Her energy will drain over time, requiring you to feed her by riding an edge. The session lasts until you press Oops during an energy drain."
+Forced Orgasms,She will ask you to cum multiple times before considering the session a success.
+Always Regular,Tasks involving this toggle will be considered neither reward nor punishment instead of their usual type.
+Always Punishment,Tasks involving this toggle will be considered punishments instead of their usual type.
+Always Reward,Tasks involving this toggle will be considered rewards instead of their usual type.
+Experimental,Tasks involving this toggle will not penalize you for disobeying them. Good for - believe it or not - experimenting with something new.
+Exclusively Layer,Interactions will only show up as layers on tasks (the Y part of Do X & Y)
+Layer Always Available,"Interactions can show up as layers, even when the required toggles are off."
+Never as Layer,Interactions will only show up as bases on tasks (the X part of Do X & Y)
+Never Add Layer,"Interactions will never have a layer added on (there will only be Do X, no addition of & Y)"
+Permanent Status,You will be considered to have this status on all session.
+Interactions as Reward,These interactions can be used for certain reward tasks such as smothering or following the rhythm of her hips.
+Heartbeat Metronome,Turns the Heartbeat animation on and off.
+Heartbeat Sound,Turns the Heartbeat sound on and off.
+Juices,"Smear your juices around, or lick them up. Usually genital fluids, but a beverage could serve as a refreshing treat instead."
+Performance,"Show off for her, or for other CONSENTING people. NO UNSOLICITED DICK PICS!"
+Lower Body,Never skip Leg Day. Due to the random nature of sessions this will not provide a structured workout.
+Upper Body,Got tickets to the gun show? Due to the random nature of sessions this will not provide a structured workout.
+Core,Got a 6-Pack? 8-Pack? 24-Pack!? You should probably see a doctor about that. Due to the random nature of sessions this will not provide a structured workout.
+Cardio,Get your heart pumping as fast as your hand. Due to the random nature of sessions this will not provide a structured workout.
+Yoga,Not to be confused with the jedi master. Due to the random nature of sessions this will not provide a structured workout.
+Rattle,A toy that makes noise when you shake it (used with ABDL)
+Belt,Not for keeping your pants up (Can be used for Impact Play by enabling the matching interaction in one of the Pain Kinks)
+Leash,Usually attached to a collar (Can be used for Impact Play by enabling the matching interaction in one of the Pain Kinks)
+Wet and Messy,Make a big mess of yourself
+Massage Gun,More powerful than a Vibrator. The warning says not to put it inside yourself - which means people have definitely put it inside themselves.
+Shackles,Connects your limbs together using a long connector. (Does not restrict your movement and thus task availability like cuffs do)
+Creativity,She will ask you to make up new punishments or remember old ones.
+No Intro Edging,Removes the warmup question asking if you want to start the session by edging.
+One Way Size Progression,Stops smaller toys from showing up when your Ass/Vagina is warmed up enough to take larger ones. Disables Mood and Arousal Specific settings for Small/Medium/Large/Knotted Insertables and Plugs.
+Vaginal Plug,A plug for a vagina (blocks access to vagina and clit)
+No Rhythm Text,Removes the descriptive text from rhythm events.
+Always Dom Name,Will use a Dom Name instead of just her name whenever possible.
+Double Anal Insertable,You've had one yes. But what about second buttfast?
+Double Vaginal Insertable,"Two toys, one cunt"
+Double Oral Insertable,How many sausages can you swallow at once?
+Cheats & Debug,Activates the debug menu in session to enhance testing and/or enable being a filthy fucking cheater. (DOES NOT disable favor or favorite sessions like other cheats)
+Unlimited Favor,"Due to an accounting error the bank of Succuland has credited your account with UNLIMITED FAVOR. I won't tell them if you don't. (Disables accumulating favor and favorite sessions, your favor and favorite session count will be reset to 0 upon deactivation of this cheat)"
+Unlimited Devotion,"Become the Archbishop of Succuland and show the heathens the power of your UNLIMITED DEVOTION. Wrath of Goddess not included. (Disables accumulating favor and favorite sessions, your favor and favorite session count will be reset to 0 upon deactivation of this cheat)"
+Personality,Significantly impacts how your Succubus interacts with you. Click on individual ? to find out more about each slider.
+Kinky,Affects: how commonly she gives you kinkier tasks. (Arousal level and session time are also considered for determining appropriate level of kink)
+Sadistic,"Affects: punishing you just for fun, Mischievous becoming devious (guarentees punishments), making things harder instead of easier when you beg for mercy"
+Moody,"Affects: rate of mood gain, chance of a bad mood becoming worse (Neutral > Angry > Furious), how long special moods last (Mischievous, Angry, Furious), "
+Demanding,"Affects: chance of getting task layers (Do something & <i>layer</i>), chance of being assigned a new position immediately without a break"
+Degrading,Affects: how often she degrades you (use the gear icon to select when you want to be degraded and what topics are allowed)
+Praising,Affects: how often she praises you (use the gear icon to select when you want to be praised and what topics are allowed)
+Teasy vs Thirsty,"Affects: arousal levels she will make you edge at (Teasy skews towards 2, Thirsty towards 4), chance of fake-out endings (Teasy), chance of more intense forms of edging (Thirsty)"
+Serious vs Mischievous,"Affects: how often the Mischievous mood occurs, how often mischievous actions occur (increasing timers, asking you to keep count ect.), setting this slider to 0 (fully Serious) will prevent mischievous moods and behaviors completely"
+Calm vs Wrathful,Affects: chance of a bad mood becoming worse (Neutral > Angry > Furious) - acts as a modifier on Moody and can prevent (at fully Calm) or guarentee (at fully Wrathful) more intense bad moods
+Detached vs Yandere,"Affects: how soon until you are expected to return for your next session, whether she gets angry if you have fun without her, enables the Yandere event when slider is fully Yandere (Yandere be crazy - do not complain about her being unreasonable, we will just laugh at you)"
+Forgiving vs Strict,"Affects: the mood threshold for disobeying to be considered ""bratty"", how long before she punishes brats, how often she will be merciful, how often she will forgive failure, how many mistakes cause a bad ending"
+Silent vs Chatty,Affects: the rate of her speaking to you directly when praising or degrading you
+Oral Toy,A toy (generally assumed to be penis shaped) that goes in your mouth.
+Tickler,A toy for lightly stimulating yourself like a feather or brush (tickling is not actually required)
+No Outfit Consequences,Consequences will not include options that change her outfit
+Session Time Hardcap,Triggers the ending 5 minutes before this time. Skips teasing and ignores session types like Energy Drain. Does not work on Time Limit sessions.
+Status Always Visible,Keeps the list of player status open at all times. Never again forget what form of pretzel you are supposed to be in.
+Light Fog,Reduces the severity of the Fog consequence so you can keep your eyes on her at all times.
+Prejac Session,"Try to finish as fast as possible, with as little stimulation as possible. Basically the golf of VS."
+Gooning Session,Keeps you in the gooning state all session long (the majority of tasks will be edging).
+Edging & Ruining,"Unsurprisingly, these settings relate to edging. Do you have what it takes to become an Edgelord? Also includes settings for random ruins during the session."
+Basic Edging,Edge tasks will always be generic. Disables Punishment Edges. The basic bitch choice.
+Layer Edging,Edge tasks will always be a generic base with a variable layer. (Edge while doing a handstand vs. Do a handstand until you edge)
+No Timed Edging,"Edge tasks will always be untimed. If you don't perform well under pressure, this setting is for you."
+Touchless Edging,"Edge tasks can be given even with the No Touching status, but will not override individual tasks that are restricted by it (such as Penis Stimulation). Ideally paired with Chastity Device."
+Encouraged Edging,"She will not punish you for using the edge button, and will lower the cost of using it."
+Edge as Punishment,Earning a punishment will also lead to edging.
+Punishment Edges,Allows her to give you Punishment Edges (things that you have set the pleasure intensity to Punishment for).
+Sensitivity Training,"Sessions will begin with low intensity tasks, increasing over time. Your mission, should you choose to accept it, is to get to the edge with as little stimulation as possible."
+No Gooning,Removes the chance of initiating the gooning state. A terrible choice for archvillains.
+No Edging Gooning,"Tasks during the gooning state will not require edging, but will still be picked the same way. Recommended for upbeat henchmen."
+Disable Base Edging,This toggle will never be used as a base for edging. Does what it says on the box.
+Disable Layer Edging,This toggle will never be used as a layer for edging. Does what it says on the can.
+Layer Always Usable For Edging,Can be given as a layer for edge tasks regardless of whether or not this toggle is on for the session.
+Only Use For Edging,This toggle will only be used for edge tasks.
+Mind Control Tasks,Rephrases most tasks to be forced upon you via mind control. Totally real mind control.
+No Latex,Removes Latex as an option for consequences (does not prevent you from requesting it yourself)
+Disable Edging,"Disables Edging - were you expecting it to do something else? Does not stop Sensitivity Training, Prejac Sessions or Gooning Sessions."
+Inverted Buttons,Swaps the position of positive and negative buttons.
+Random Mood Start,"She will start the session in a random mood. Sometimes even virtual demons have a bad day, and she's gonna work it out on you!"
+Volatile,Makes her prone to sudden extreme mood swings throughout the session.
+One Toy Name Per Session,She will pick a single Named option for each toy per session - so you will just need to have your violet dildo on hand instead of the whole rainbow.
+No Repeated Edging,Removes repeated edging followup prompts.
+Hidden Stakes,Hides session stakes. It could be anything - kind of like a loot box.
+Limited Safe Word,Using Safe Word a second time in the session will immediately end the session.
+InteractionExplain,"Base and Layer indicates the first and second part of tasks, separated by &. You can also set the pleasure level, including Punishment (too much pleasure, used with Punishment Edging)"
+Single Application Status,"Once this status is applied during the session, you will not be asked to remove it. You can still manually remove it like normal so don't be an idiot - remove it if you feel discomfort."
+Orders,Simple and quick instructions that can interrupt other tasks. 
+ORDERTYPEBREATH,"You know that thing you do all the time without even thinking about it? You are doing it right now? Yeah, stop doing that."
+ORDERTYPEDROOL,"Let it flow, let it flow, Don't hold it back anymore..."
+ORDERTYPEKEGELS,Flex your kegel muscles.
+ORDERTYPEEYECONTACT,My eyes are up here.
+ORDERTYPEAHEGAO,"From Wikipedia: Ahegao is a term in Japanese pornography for a facial expression of characters (usually women) during sex, typically with rolling or crossed eyes, protruding tongue, and slightly reddened face, to show enjoyment or ecstasy."
+ORDERTYPEWHIMPER,A particularly subby sound.
+ORDERTYPEBEG,What's the magic word?
+ORDERTYPEMOAN,Express your pleasure in an audible manner.
+ORDERTYPETHANK,You're welcome.
+ORDERTYPEAPOLOGIZE,You probably did something to deserve it.
+ORDERTYPEBARK,The dog says bark.
+ORDERTYPEMEOW,The cat says meow.
+ORDERTYPEOINK,The pig says oink.
+Simple Ending Edging,"Edging prompts during the ending will be generic edge instructions. If you don't want to do gymnastics to get off, give this a go."
+Nipple Stimulators,Toys that attach to your nipples and provide a pleasant sensation. The philosophical opposite to Nipple Clamps.
+Disable Passcode,Removes the Passcode Entry screen at the beginning
+Conditioning Stimuli,Stimuli used to condition you into arousal the same way a dog can be clicker-trained.
+Conditioning Drone,A background noise to condition you into arousal. Headphones recommended. Strength of drone is based on your arousal level.
+Conditioning Snaps,Completing edges will reward you with snaps to condition these snaps into arousal.
+Conditioned Responses,"Upon achieving conditioning, these toggles will induce effects in you."
+Drone Induced Arousal,"When not fully aroused, your Succubus will make you aroused by using the conditioning drone."
+Snap Induced Edges,"When edging, your Succubus may ask you to edge when you hear a snap."
+Second-Order,Second-order conditioning involves associating other stimuli with a learned response. The conditioning drone will be used to make you aroused by various toggles of your choice.
+Worship Conditioning,Enables the conditioning drone during Worship scenes.
+Conditioned Arousal,Enables the conditioning drone during tasks involving this toggle.
+Conditioning,Classical Pavlovian Conditioning using audio cues.
+Silent Orders,Removes the psychic whispers associated with an order. Note: The directionality / ASMR-like component of these orders can be adjusted through the sound menu.
+Yandere Events,Enables Yandere events regardless of the Yandere Personality slider.
+Edging Drone,Enables the conditioning drone while edging and cumming.
+Lube,"Have her take control of what kind of ""lube"" you use. She will pick from enabled options for appropriate tasks, and change or refresh it every few minutes. Punishment lubes will be chosen when she is mad."
+ToggleWhileFurious,Tasks involving this toggle will appear while her mood is Furious (also while she is feeling Devious).
+ToggleWhileAngry,Tasks involving this toggle will appear while her mood is Angry.
+ToggleWhileNeutral,Tasks involving this toggle will appear while her mood is Neutral.
+ToggleWhileHappy,Tasks involving this toggle will appear while her mood is Happy.
+ToggleWhilePleased,Tasks involving this toggle will appear while her mood is Pleased.
+ToggleWhileMischievous,Tasks involving this toggle will appear while her mood is Mischievous (also while she is feeling Devious).
+ToggleWhileArousal0,Tasks involving this toggle will appear while your Arousal is at level 1 (1 Flame).
+ToggleWhileArousal1,Tasks involving this toggle will appear while your Arousal is at level 2 (2 Flames).
+ToggleWhileArousal2,Tasks involving this toggle will appear while your Arousal is at level 3 (3 Flames).
+ToggleWhileArousal3,Tasks involving this toggle will appear while your Arousal is at level 4 (4 Flames).
+Cum Eating,Enables cum eating instructions after cumming. Enable post-ruin cum eating to also have it happen during the session.
+Replace Cum with Juices,"When mentioning the word Cum during cum-eating instructions, it will be replaced with Juices."
+Replace Cum with Grool,"When mentioning the word Cum during cum-eating instructions, it will be replaced with Grool."
+PreparationList,Only disabling options will affect the game in this menu - the rest is provided for your own preparation purposes. Takes into account all enabled content.
+Anal Exclusive Orgasm,She will only allow you to cum from anal stimulation.
+Ruin as Punishment,She will only tell you to ruin yourself mid-session while angry at you.
+Post Orgasm Torture,She will continue stimulating you after you cum at the end of a session.
+Ruin After POT,She can tell you to ruin yourself after a segment of POT.
+Cum After POT,She can tell you to cum after a segment of POT.
+POT Cum as Lube,She can tell you to use your cum as lube during POT.
+CEI During POT,She can tell you to keep your cum in your mouth during POT.
+Self Facial,She can tell you to Ruin yourself on to your face mid-session. Requires mid-session Ruins to be enabled in Edging & Ruining.
+Superior Service Sub,"A Superior Service Sub exists only to please their Mistress - your own pleasure is unnecessary./n<i>Focus on Service Acts, No Genital Stimulation Allowed</i>/n Unlock: Service Training, Worship"
+Legendary Black Hole,"Can something that voracious ever truly be filled? Might as well try./n<i>Wear a giant butt plug all session</i>/n Unlock: A Plugged Day, Advanced Plug Fucking"
+Absolute Anal Abuse,"Pound your ass like it owes you money with nothing but the biggest dicks right from the start./n<i>Focus on Huge Anal Toys, No Warmup, Only Anal Orgasms</i>/n Unlock: Anal Endurance"
+Throw Away The Key,If you're already living in permanent chastity you might as well get rewarded for it./n<i>Wear a Chastity Device all session</i>/n Unlock: A Week In Lockup
+Bottomless Cum Guzzler,"The ultimate Jizz Junky buffet. Just how many times can you milk youself in one sitting?/n<i>Repeated Ruins and Cum Eating</i>/n Unlock: Ruin & Repeat, Cum Dumpster"
+Perfect Pain Pet: Penis,"Nothing brings her joy quite like watching you hit yourself for her pleasure. Care to indulge her?/n<i>All Applicable Pain Toggles, At Least One Impact Implement</i>/n Unlock: Blurring Lines, Impact Variety"
+Perfect Pain Pet: Vagina,"Nothing brings her joy quite like watching you hit yourself for her pleasure. Care to indulge her?/n<i>All Applicable Pain Toggles, At Least One Impact Implement</i>/n Unlock: Blurring Lines, Impact Variety"
+Maximum Masochist: Penis,"If having your cock and balls abused truly gets you off then this is the edict for you./n<i>Cock and Ball Pleasure and Pain, Only Orgasm with CBT</i>/n Unlock: Tease Or Torment? Cock And Balls"
+Maximum Masochist: Vagina,"If having your pussy abused truly gets you off then this is the edict for you./n<i>Clit & Vagina Pleasure and Pain, Only Orgasm with CVT</i>/n Unlock: Tease Or Torment? Clit And Vagina"
+Dick Destruction Demanded,"She's going to give you exactly what you want - lots of stroking. So what's with the name?/n<i>Only Rough Dick Stroking and Palming</i>/n Unlock: Palmed, Rough Jerking"
+Certified Size Queen,"Fill your pussy with the monster cocks that you've been craving - no warmup necessary./n<i>Focus on Monster Vaginal Toys, No Warmup</i>/n Unlock: Vaginal Endurance"
+Overstimulation Addict: Penis,"Push the concept of overstimulation to the max the way only a power tool can./n<i>Vibrator Focused on Sensitive Areas, Gratuitous POT</i>/n Unlock: POT: Penis, Powerful Vibrations: Penis"
+Overstimulation Addict: Vagina,"Push the concept of overstimulation to the max the way only a power tool can./n<i>Vibrator Focused on Sensitive Areas, Gratuitous POT</i>/n Unlock: POT: Vagina, Powerful Vibrations: Vagina"
+Attention Whore,"You love being the center of attention, so strut your stuff and show off for her./n<i>Performance, Body Writing, Vocalizations</i>/n Unlock: Dance Monkey, Body Writing, Loud & Proud"
+Deepthroat Doctorate,She wants to make you choke on her cock all night long (Or Strapon depending on your settings)./n<i>Focus on Oral Toy</i>/n Unlock: Oral Endurance
+Scat,"She sits on your face and uses you for scat — short brown bursts and splat FX during FaceSit / ButtFaceSit. Pair with Smothering. Optional WAVs go in VSFartSounds/Scat/."
+Skunk Girl,"Turns her into a skunk girl — black/white striped tail on her hips and musk spray bursts. Pair with Smothering / Farting. Optional WAVs in VSFartSounds/Skunk/."
+Panty Sharting,"Muffled wet panty sharts — quieter brown-yellow gas near her butt, FaceSit/ButtWorship tasks. Pair with Farting + Smothering."
+Stinky Socks,"Her dirty socks on your face — uses the FaceStomp / foot-in-face animation. Enable with Smothering + Feet. Do NOT enable the Socks toy for this (that is hand/standing sock play)."
+Stinky Armpits,"Armpit smell torture — PitSmother and pit worship sniffing. Pair with Armpit + Smothering. Light musk FX."
+Her Watersports,"She pees on you during FaceSit / ButtFaceSit. Enable with Smothering. Turn OFF Watersports if you only want her-on-you (Watersports alone is your self-piss standing tasks)."

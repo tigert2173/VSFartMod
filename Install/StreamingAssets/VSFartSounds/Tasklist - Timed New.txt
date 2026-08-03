@@ -1,0 +1,234 @@
+EventID,EventNames,EventRequiredFeatures,EventText,EventPreRequirements,EventMultiplier,EventPossibleScenes,EventForcedEmotion,EventClothed,EventRewardPunishment,EventAppliedModifiers,EventIncompatibleModifiers,EventRequiredModifiers,EventToggleDiff,EventKink,EventIncompatibleLayers,EventCountedPossible
+ID1,DefaultPunishment,FALLBACK,[SUCCUNAME] #V1#orders you to_commands you to_demands you#V1# #V2#wait_keep your hands off_clear your mind#V2#,,1,Special_Animate_Angry,,No,Punishment,,,,,0,All,
+ID2,DefaultReward,,[PREAMBLE/DOMNAME] [INTERACTREWARD],,5,Special_Animate_SelfPleasure1,Pleasing,No,Reward,,,,,0,All,
+ID3,PenisStimulationInteraction,Penis Stimulation,[PREAMBLE/DOMNAME] [INTERACTPENISSTIMULATION],,5,"Standing, TimedAnimations",,Yes,,,PenisBusy,,,0,"Penis, Sleeve Toy, Humping",Yes
+ID4,FrenulumStimulationInteraction,Frenulum Stimulation,[PREAMBLE/DOMNAME] [INTERACTFRENULUMSTIMULATION],,2,"Standing, TimedAnimations",,Yes,,,PenisBusy,,,20,"Penis, Sleeve Toy, Humping",Yes
+ID5,PalmingInteraction,Palming,[PREAMBLE/DOMNAME] [INTERACTPALMING],,2,"Standing, TimedAnimations",,Yes,,,PenisBusy,,,20,"Palming, Sleeve Toy, Humping",Yes
+ID6,BallsStimulationInteraction,Balls Stimulation,[PREAMBLE/DOMNAME] [INTERACTBALLSSTIMULATION],,2,"Standing, TimedAnimations",,Yes,,,BallsBusy,,,0,"Balls, Humping",Yes
+ID7,ClitoralStimulationInteraction,Clitoral Stimulation,[PREAMBLE/DOMNAME] [INTERACTCLITORALSTIMULATION],,5,"Standing, TimedAnimations",,Yes,,,ClitBusy,,,0,"Clit, Humping",Yes
+ID8,VaginalFingeringInteraction,Vaginal Fingering,[PREAMBLE/DOMNAME] [INTERACTVAGINALFINGERING],,5,"Standing, TimedAnimations",,Yes,,,VaginalBusy,,Vaginal_1_0,0,"Vaginal, Humping",Yes
+ID9,AnalFingeringInteraction,analfingering,[PREAMBLE/DOMNAME] [INTERACTANALFINGERING],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,AnalBusy,,Anal_1_0,40,Anal,Yes
+ID10,NippleStimulationInteraction,Nipple Stimulation,[PREAMBLE/DOMNAME] [INTERACTNIPPLESTIMULATION],,3,"Standing, TimedAnimations",,Yes,,,NipplesBusy,,,20,Nipples,Yes
+ID11,BreastStimulationInteraction,Breast Stimulation,[PREAMBLE/DOMNAME] [INTERACTBREASTSTIMULATION],,2,"Standing, TimedAnimations",,Yes,,,BreastsBusy,,,20,Breasts,Yes
+ID12,PainInteraction,Pain,[PREAMBLE/DOMNAME] [INTERACTPAIN],ReadyStep,5,"Standing, TimedAnimations",,Yes,Punishment,,,,Pain_1_0,40,Pain,Yes
+ID13,CockTortureInteraction,CBT: Cock,[PREAMBLE/DOMNAME] [INTERACTCBTCOCK],ReadyStep,2,"Standing, TimedAnimations",,Yes,Punishment,,PenisBusy,,Pain_1_0,60,"Pain, Penis, Palming, Sleeve Toy, Humping",Yes
+ID14,BallsTortureInteraction,CBT: Balls,[PREAMBLE/DOMNAME] [INTERACTCBTBALLS],ReadyStep,4,"Standing, TimedAnimations",,Yes,Punishment,,BallsBusy,,Pain_1_0,60,"Pain, Balls, Humping",Yes
+ID15,Clit&VaginaTortureInteraction,Clit & Vagina Torture,[PREAMBLE/DOMNAME] [INTERACTCVT],ReadyStep,3,"Standing, TimedAnimations",,Yes,Punishment,,"ClitBusy, VaginalBusy",,Pain_1_0,60,"Pain, Clit, Vaginal, Humping",Yes
+ID16,NippleTortureInteraction,Nipple Torture,[PREAMBLE/DOMNAME] [INTERACTNIPPLETORTURE],ReadyStep,4,"Standing, TimedAnimations",,Yes,Punishment,,NipplesBusy,,Pain_1_0,60,"Pain, Nipples",Yes
+ID17,BreastTortureInteraction,Breast Torture,[PREAMBLE/DOMNAME] [INTERACTBREASTTORTURE],ReadyStep,2,"Standing, TimedAnimations",,Yes,Punishment,,BreastsBusy,,Pain_1_0,60,"Pain, Breasts",Yes
+ID18,VibratorInteraction,Vibrator,[PREAMBLE/DOMNAME] [INTERACTVIBRATOR],ReadyStep,5,"Standing, TimedAnimations",,Yes,,,,,,0,Vibrator,Yes
+ID19,MassageGunInteraction,Massage Gun,[PREAMBLE/DOMNAME] [INTERACTMASSAGEGUN],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,,,,40,Massage Gun,Yes
+ID20,SleeveToyInteraction,Sleeve Toy,[PREAMBLE/DOMNAME] [INTERACTSLEEVETOY],ReadyStep,5,"Standing, TimedAnimations",,Yes,,,PenisBusy,,,0,"Sleeve Toy, Service Sleeve, Penis, Palming, Humping",Yes
+ID21,ChastityDeviceInteraction,Chastity Device,[PREAMBLE/DOMNAME] [INTERACTCHASTITYDEVICE],ReadyStep,5,"Standing, TimedAnimations",,Yes,,,,ChastityDevice,,60,"Chastity Device, Vibrator",Yes
+ID22,SmallAnalInsertableInteraction,smallanalinsertable,[PREAMBLE/DOMNAME] [INTERACTSMALLANALINSERTABLE],ReadyStep,5,"Standing, TimedAnimations",,Yes,,,AnalBusy,,Anal_1_0,40,Anal,Yes
+ID23,MediumAnalInsertableInteraction,mediumanalinsertable,[PREAMBLE/DOMNAME] [INTERACTMEDIUMANALINSERTABLE],ReadyStep,4,"Standing, TimedAnimations",,Yes,,,AnalBusy,,Anal_1_2,60,Anal,Yes
+ID24,LargeAnalInsertableInteraction,largeanalinsertable,[PREAMBLE/DOMNAME] [INTERACTLARGEANALINSERTABLE],ReadyStep,3,"Standing, TimedAnimations",,Yes,,,AnalBusy,,Anal_1_3,80,Anal,Yes
+ID25,VibratingAnalInsertableInteraction,vibratinganalinsertable,[PREAMBLE/DOMNAME] [INTERACTVIBRATINGANALINSERTABLE],ReadyStep,5,"Standing, TimedAnimations",,Yes,,,AnalBusy,,Anal_1_0,40,Anal,Yes
+ID26,KnottedAnalInsertableInteraction,knottedanalinsertable,[PREAMBLE/DOMNAME] [INTERACTKNOTTEDANALINSERTABLE],ReadyStep,3,"Standing, TimedAnimations",,Yes,,,AnalBusy,,Anal_1_3,80,Anal,Yes
+ID27,SmallPlugInteractionNotPlugged,smallplug,[PREAMBLE/DOMNAME] [INTERACTSMALLPLUG],ReadyStep,4,"Standing, TimedAnimations",,Yes,,,"AnalBusy, NoNotPluggedInteractions",,Anal_1_0,40,"Plug, Anal",Yes
+ID28,MediumPlugInteractionNotPlugged,mediumplug,[PREAMBLE/DOMNAME] [INTERACTMEDIUMPLUG],ReadyStep,3,"Standing, TimedAnimations",,Yes,,,"AnalBusy, NoNotPluggedInteractions",,Anal_1_2,60,"Plug, Anal",Yes
+ID29,LargePlugInteractionNotPlugged,largeplug,[PREAMBLE/DOMNAME] [INTERACTLARGEPLUG],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,"AnalBusy, NoNotPluggedInteractions",,Anal_1_3,80,"Plug, Anal",Yes
+ID30,VibratingPlugInteractionNotPlugged,vibratingplug,[PREAMBLE/DOMNAME] [INTERACTVIBRATINGPLUG],ReadyStep,4,"Standing, TimedAnimations",,Yes,,,"AnalBusy, NoNotPluggedInteractions",,Anal_1_0,40,"Plug, Anal",Yes
+ID31,TailPlugInteractionNotPlugged,tailplug,[PREAMBLE/DOMNAME] [INTERACTTAILPLUG],ReadyStep,4,"Standing, TimedAnimations",,Yes,,,"AnalBusy, NoNotPluggedInteractions",,Anal_1_0,40,"Plug, Anal",Yes
+ID32,InflatablePlugInteractionNotPlugged,inflatableplug,[PREAMBLE/DOMNAME] [INTERACTINFLATABLEPLUG],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,"AnalBusy, NoNotPluggedInteractions",,Anal_1_1,60,"Plug, Anal",Yes
+ID33,SmallPlugInteractionPlugged,smallplug,[PREAMBLE/DOMNAME] [INTERACTSMALLPLUG],,4,"Standing, TimedAnimations",,Yes,,,NoPluggedInteractions,Small Plug,Anal_1_0,40,"Plug, Anal",Yes
+ID34,MediumPlugInteractionPlugged,mediumplug,[PREAMBLE/DOMNAME] [INTERACTMEDIUMPLUG],,3,"Standing, TimedAnimations",,Yes,,,NoPluggedInteractions,Medium Plug,Anal_1_2,60,"Plug, Anal",Yes
+ID35,LargePlugInteractionPlugged,largeplug,[PREAMBLE/DOMNAME] [INTERACTLARGEPLUG],,2,"Standing, TimedAnimations",,Yes,,,NoPluggedInteractions,Large Plug,Anal_1_3,80,"Plug, Anal",Yes
+ID36,VibratingPlugInteractionPlugged,vibratingplug,[PREAMBLE/DOMNAME] [INTERACTVIBRATINGPLUG],,4,"Standing, TimedAnimations",,Yes,,,NoPluggedInteractions,Vibrating Plug,Anal_1_0,40,"Plug, Anal",Yes
+ID37,TailPlugInteractionPlugged,tailplug,[PREAMBLE/DOMNAME] [INTERACTTAILPLUG],,4,"Standing, TimedAnimations",,Yes,,,NoPluggedInteractions,Tail Plug,Anal_1_0,40,"Plug, Anal",Yes
+ID38,InflatablePlugInteractionPlugged,inflatableplug,[PREAMBLE/DOMNAME] [INTERACTINFLATABLEPLUG],,2,"Standing, TimedAnimations",,Yes,,,NoPluggedInteractions,Inflatable Plug,Anal_1_1,60,"Plug, Anal",Yes
+ID39,SmallVaginalInsertableInteraction,smallvaginalinsertable,[PREAMBLE/DOMNAME] [INTERACTSMALLVAGINALINSERTABLE],ReadyStep,5,"Standing, TimedAnimations",,Yes,,,VaginalBusy,,Vaginal_1_0,0,"Vaginal, Humping",Yes
+ID40,MediumVaginalInsertableInteraction,mediumvaginalinsertable,[PREAMBLE/DOMNAME] [INTERACTMEDIUMVAGINALINSERTABLE],ReadyStep,4,"Standing, TimedAnimations",,Yes,,,VaginalBusy,,Vaginal_1_2,40,"Vaginal, Humping",Yes
+ID41,LargeVaginalInsertableInteraction,largevaginalinsertable,[PREAMBLE/DOMNAME] [INTERACTLARGEVAGINALINSERTABLE],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,VaginalBusy,,Vaginal_1_3,80,"Vaginal, Humping",Yes
+ID42,VibratingVaginalInsertableInteraction,vibratingvaginalinsertable,[PREAMBLE/DOMNAME] [INTERACTVIBRATINGVAGINALINSERTABLE],ReadyStep,5,"Standing, TimedAnimations",,Yes,,,VaginalBusy,,Vaginal_1_0,0,"Vaginal, Humping",Yes
+ID43,KnottedVaginalInsertableInteraction,knottedvaginalinsertable,[PREAMBLE/DOMNAME] [INTERACTKNOTTEDVAGINALINSERTABLE],ReadyStep,3,"Standing, TimedAnimations",,Yes,,,VaginalBusy,,Vaginal_1_3,80,"Vaginal, Humping",Yes
+ID44,InsertedVaginalVibeInteraction,Inserted Vaginal Vibe,[PREAMBLE/DOMNAME] [INTERACTINSERTEDVAGINALVIBE],ReadyStep,4,"Standing, TimedAnimations",,Yes,,,,Inserted Vaginal Vibe,Vaginal_1_0,20,"Vaginal, Humping",Yes
+ID45,CunnilingusInteraction,"Cunnilingus, Service Sleeve",[PREAMBLE/SUBNAME] [INTERACTCUNNILINGUS],ReadyStep,4,"Standing, TimedAnimations",,Yes,,,MouthBusy,,,20,"Service, Sleeve Toy, Service Sleeve, Oral",Yes
+ID46,OralToyInteraction,Oral Toy,[PREAMBLE/SUBNAME] [INTERACTORALTOY],ReadyStep,4,"Standing, TimedAnimations",,Yes,,,MouthBusy,,Oral_1_0,20,"Oral, Service",Yes
+ID47,HandjobInteraction,"Handjob, Service Toy",[PREAMBLE/SUBNAME] [INTERACTHANDJOB],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,,,,40,Service,Yes
+ID48,TitjobInteraction,"Titjob, Service Toy",[PREAMBLE/SUBNAME] [INTERACTTITJOB],ReadyStep,3,"Standing, TimedAnimations",,Yes,,,BreastsBusy,,,40,"Service, Breasts",Yes
+ID49,ThighjobInteraction,"Thighjob, Service Toy",[PREAMBLE/SUBNAME] [INTERACTTHIGHJOB],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,LegsBusy,,,40,"Service, Legs",Yes
+ID50,AssjobInteraction,"Assjob, Service Toy",[PREAMBLE/SUBNAME] [INTERACTASSJOB],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,,,,40,"Service, Anal",Yes
+ID51,PussyjobInteraction,"Pussyjob, Service Toy",[PREAMBLE/SUBNAME] [INTERACTPUSSYJOB],ReadyStep,3,"Standing, TimedAnimations",,Yes,,,"ClitBusy, VaginalBusy",,,40,"Service, Clit, Vaginal, Humping",Yes
+ID52,FootjobInteraction,"Footjob, Service Toy",[PREAMBLE/SUBNAME] [INTERACTFOOTJOB],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,FeetBusy,,,60,"Service, Feet",Yes
+ID53,PitjobInteraction,"Pitjob, Service Toy",[PREAMBLE/SUBNAME] [INTERACTPITJOB],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,,,,60,Service,Yes
+ID54,TaintInteraction,Taint,[PREAMBLE/DOMNAME] [INTERACTTAINT],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,,,,40,Taint,Yes
+ID55,HumpingInteraction,Humping,[PREAMBLE/SUBNAME] [INTERACTHUMPING],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,,,,40,"Humping, Penis, Palming, Balls, Clit, Vaginal, Sleeve Toy, Panties, Socks",Yes
+ID56,FootwearInteraction,Footwear,[PREAMBLE/SUBNAME] [INTERACTFOOTWEAR],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,,,,80,Footwear,Yes
+ID57,CaressInteraction,Caress,[PREAMBLE/DOMNAME] [INTERACTCARESS],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,,,,0,Caress,Yes
+ID58,NippleClampsInteraction,Nipple Clamps,[PREAMBLE/DOMNAME] [INTERACTNIPPLECLAMPS],ReadyStep,3,"Standing, TimedAnimations",,Yes,Punishment,,,NippleClamps,Pain_1_0,60,"Pain, Nipples",Yes
+ID59,ChewToyInteraction,Chew Toy,[PREAMBLE] [INTERACTCHEWTOY],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,MouthBusy,,,40,Oral,Yes
+ID60,PantiesInteraction,Panties,[PREAMBLE] [INTERACTPANTIES],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,,,,60,"Panties, Humping",Yes
+ID61,SocksInteraction,Socks,[PREAMBLE] [INTERACTSOCKS],ReadyStep,2,"Standing, TimedAnimations",,Yes,,,,,,60,"Socks, Humping",Yes
+ID62,StraponInteraction,Strapon,[PREAMBLE] [INTERACTSTRAPON],,4,"Standing, TimedAnimations",,Yes,,,,Strapon,,80,"Strapon, Sleeve Toy, Service Sleeve",Yes
+ID63,LeashInteraction,Leash,[PREAMBLE] [INTERACTLEASH],,2,"Standing, TimedAnimations",,Yes,,,,Leashed,,40,Leash,Yes
+ID64,VaginalPlugInteractionNotPlugged,vaginalplug,[PREAMBLE] [INTERACTVAGINALPLUG],ReadyStep,3,"Standing, TimedAnimations",,Yes,,,"VaginalBusy, ClitBusy, NoNotPluggedInteractions",,Vaginal_1_0,40,"Plug, Vaginal, Clit, Humping",Yes
+ID65,VaginalPlugInteractionPlugged,vaginalplug,[PREAMBLE] [INTERACTVAGINALPLUG],,3,"Standing, TimedAnimations",,Yes,,,NoPluggedInteractions,Vaginal Plug,Vaginal_1_0,40,"Plug, Vaginal, Clit, Humping",Yes
+ID66,DoubleAnalInsertableInteraction,doubleanalinsertable,[PREAMBLE] [INTERACTDOUBLEANALINSERTABLE],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,AnalBusy,,Anal_1_3,80,All,Yes
+ID67,DoubleVaginalInsertableInteraction,doublevaginalinsertable,[PREAMBLE] [INTERACTDOUBLEVAGINALINSERTABLE],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,VaginalBusy,,Vaginal_1_3,80,All,Yes
+ID68,DoubleOralInsertableInteraction,doubleoralinsertable,[PREAMBLE] [INTERACTDOUBLEORALINSERTABLE],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,MouthBusy,,Oral_1_3,80,All,Yes
+ID69,MouthFingeringInteraction,Mouth Fingering,[PREAMBLE] [INTERACTMOUTHFINGERING],,3,"Standing, TimedAnimations",,Yes,,,MouthBusy,,Oral_1_0,20,"Oral, Service",Yes
+ID70,TicklerInteraction,Tickler,[PREAMBLE/DOMNAME] [INTERACTTICKLER],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,,,,0,Caress,Yes
+ID71,TediumInteraction,Tedium,[PREAMBLE] [INTERACTTEDIUM],ReadyStep,2,"Standing, TimedAnimations",,Yes,Punishment,,LegsBusy,,,0,All,
+ID72,ExerciseCardioInteraction,ExerciseCardio,[PREAMBLE] [INTERACTEXERCISECARDIO],ReadyStep,3,"Standing, TimedAnimations",,Yes,,,LegsBusy,,,0,All,
+ID73,ExerciseYogaInteraction,ExerciseYoga,[PREAMBLE] [INTERACTEXERCISEYOGA],ReadyStep,3,"Standing, TimedAnimations",,Yes,,,LegsBusy,,,0,All,
+ID74,PenisPumpInteraction,Penis Pump,[PREAMBLE] [INTERACTPENISPUMP],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,PenisBusy,,,60,All,
+ID75,ClitPumpInteraction,Clit Pump,[PREAMBLE] [INTERACTCLITPUMP],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,ClitBusy,,,60,All,
+ID76,VaginaPumpInteraction,Vagina Pump,[PREAMBLE] [INTERACTVAGINAPUMP],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,VaginalBusy,,,60,All,
+ID77,NipplePumpInteraction,Nipple Pump,[PREAMBLE] [INTERACTNIPPLEPUMP],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,NipplesBusy,,,60,All,
+ID78,SybianInteraction,Sybian,[PREAMBLE] [INTERACTSYBIAN],,5,"Standing, TimedAnimations",,Yes,,,,Sybian,,40,"Sybian, Anal, Vaginal, Humping",
+ID79,PerformanceInteraction,Performance,[PREAMBLE] [INTERACTPERFORMANCE],ReadyStep,3,"Standing, TimedAnimations",,Yes,,,,,,60,All,
+ID80,IceCubesInteraction,Ice Cubes,[PREAMBLE] [INTERACTICECUBES],ReadyStep,1,"Standing, TimedAnimations",,Yes,,,,,,40,"Penis, Palming, Balls, Clit, Vaginal, Anal, Nipples, Breasts",
+ID81,HumblerCrawl,Humbler,[PREAMBLE] crawl around with [ITS/YOUR] [HUMBLER],ReadyStep,1,Special_Animate_GetDown,,Yes,Punishment,,,Humbler,Pain_1_1,60,"Pain, Balls, Humping",
+ID82,HumblerStand,Humbler,[PREAMBLE] stand up as straight as [IT/YOU] can with [ITS/YOUR] [HUMBLER],ReadyStep,1,TimedAnimations,,Yes,Punishment,,,Humbler,Pain_1_1,60,"Pain, Balls, Humping",
+ID83,HumblerWalk,Humbler,[PREAMBLE] walk around with [ITS/YOUR] [HUMBLER],ReadyStep,1,TimedAnimations,,Yes,Punishment,,,Humbler,Pain_1_1,60,"Pain, Balls, Humping",
+ID84,ChopsticksPress,Chopsticks,[PREAMBLE] squeeze the [CHOPSTICKS],,1,"Standing, TimedAnimations",,Yes,Punishment,,,Chopsticks,Pain_2_1,60,Oral,
+ID85,FuckingMachine1,Fucking Machine,[PREAMBLE] enjoy [ITS/YOUR] [FUCKING MACHINE] on high speed,ReadyStep,1,"Standing, TimedAnimations",,Yes,,,"VaginalBusy, AnalBusy, LegsBusy",,,40,"Anal, Vaginal, Humping",
+ID86,FuckingMachine2,Fucking Machine,[PREAMBLE] enjoy [ITS/YOUR] [FUCKING MACHINE] on low speed,ReadyStep,1,"Standing, TimedAnimations",,Yes,,,"VaginalBusy, AnalBusy, LegsBusy",,,40,"Anal, Vaginal, Humping",
+ID87,FuckingMachineStrokes1,"Fucking Machine, Penis Stimulation",[PREAMBLE] enjoy [ITS/YOUR] [FUCKING MACHINE] on high speed and match it with strokes,ReadyStep,1,"Standing, TimedAnimations",,Yes,,,"AnalBusy, LegsBusy, PenisBusy",,Anal_2_1,40,"Anal, Penis, Palming, Humping",
+ID88,FuckingMachinesStrokes2,"Fucking Machine, Penis Stimulation",[PREAMBLE] enjoy [ITS/YOUR] [FUCKING MACHINE] on low speed and match it with strokes,ReadyStep,1,"Standing, TimedAnimations",,Yes,,,"AnalBusy, LegsBusy, PenisBusy",,Anal_2_0,40,"Anal, Penis, Palming, Humping",
+ID89,WorshipKissFeet,Feet,[PREAMBLE] kiss her feet,,5,"Special_Animate_Concern, Special_NoIK_Stomp1",,No,Reward,,MouthBusy,,,60,"Oral, Service",
+ID90,WorshipKissArmpit,Armpit,[PREAMBLE] kiss her armpit,,5,Special_Animate_BackHandsOver,,No,Reward,,MouthBusy,,,60,"Oral, Service",
+ID91,WorshipLickFeet,Feet,[PREAMBLE] lick her feet,,5,"Special_Animate_Concern, Special_NoIK_Stomp1",,No,Reward,,MouthBusy,,,60,"Oral, Service",
+ID92,WorshipLickArmpit,Armpit,[PREAMBLE] lick her armpit,,5,Special_Animate_BackHandsOver,,No,Reward,,MouthBusy,,,60,"Oral, Service",
+ID93,WorshipKissButt,Butt Worship,[PREAMBLE] kiss her butt.,,5,Special_Animate_Concern[ButtWorship],,No,Reward,,MouthBusy,,,40,"Oral, Service",
+ID94,WorshipLickButt,Butt Worship,[PREAMBLE] lick her butt.,,5,Special_Animate_Concern[ButtWorship],,No,Reward,,MouthBusy,,,40,"Oral, Service",
+ID95,BouncyReward,,[PREAMBLE/DOMNAME] [INTERACTREWARD] to the rhythm of her bounces,,3,Special_NoIK_Bouncy,,No,Reward,,,,,0,All,
+ID96,HipdanceReward,,[PREAMBLE/DOMNAME] [INTERACTREWARD] to the rhythm of her hips,,3,Special_NoIK_HipDance,,No,Reward,,,,,0,All,
+ID97,StrokingRewardMatch,Futa,"[INTERACTREWARD], matching her pace",,3,Special_Animate_SelfPleasure1,,No,Reward,,,,,0,All,
+ID98,HandShouldersReward,,"[PREAMBLE/DOMNAME] [INTERACTREWARD], maintaining eye contact the whole time",,1,Special_Animate_HandShoulders,,No,Reward,,,,,40,All,
+ID99,FaceSit,Smothering,[PREAMBLE] [INTERACTREWARD],ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,20,All,
+ID100,ButtFaceSit,Smothering,[PREAMBLE] [INTERACTREWARD],ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,20,All,
+ID101,FaceStomp,"Smothering, Feet",[PREAMBLE] [INTERACTREWARD],ReadyStep,1,Special_NoIK_FaceStomp,,Yes,Reward,,,,,40,All,
+ID102,BoobSmother,Smothering,[PREAMBLE] [INTERACTREWARD],ReadyStep,1,Special_NoIK_BoobSmother,,Yes,Reward,,,,,20,All,
+ID103,PitSmother,"Smothering, Armpit",[PREAMBLE] [INTERACTREWARD],ReadyStep,1,Special_NoIK_PitSmother,,Yes,Reward,,,,,40,All,
+ID104,FaceSitService,"Smothering, Cunnilingus, Service Sleeve",[PREAMBLE] [INTERACTCUNNILINGUS],ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,MouthBusy,,,20,All,
+ID105,ButtFaceSitService,"Smothering, Cunnilingus, Service Sleeve",[PREAMBLE] [INTERACTCUNNILINGUS],ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,MouthBusy,,,20,All,
+ID106,FaceStompFootwear,"Smothering, Footwear",[PREAMBLE] [INTERACTFOOTWEAR],ReadyStep,1,Special_NoIK_FaceStomp,,Yes,Reward,,,,,80,All,
+ID107,ButtFaceSitFart,"Farting, Smothering",[PREAMBLE] take her butt in your face while she farts on you.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID108,ButtFaceSitFartHold,"Farting, Smothering",[PREAMBLE] keep her butt pressed to your face as she lets out a long fart.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID109,ButtFaceSitFartService,"Farting, Smothering, Cunnilingus, Service Sleeve",[PREAMBLE] service her while she sits on your face and farts.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,MouthBusy,,,2,All,
+ID110,FaceSitFart,"Farting, Smothering",[PREAMBLE] stay under her as she sits on your face and farts.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID111,FartTeaseClose,Farting,[PREAMBLE] stay close while she aims a fart at your face.,ReadyStep,1,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,2,All,
+ID112,FartButtWorship,"Farting, Butt Worship",[PREAMBLE] kiss her butt right after she farts.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,MouthBusy,,,2,"Oral, Service",
+ID113,FartLickButt,"Farting, Butt Worship",[PREAMBLE] lick her butt while she farts in your face.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,MouthBusy,,,2,"Oral, Service",
+ID114,FartOpenMouth,"Farting, Smothering",[PREAMBLE] open your mouth under her butthole and take her fart.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID115,FartNosePress,"Farting, Smothering",[PREAMBLE] press your nose between her cheeks while she farts on you.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID116,FartDeepInhale,"Farting, Smothering",[PREAMBLE] breathe in deep as she farts straight onto your face.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID117,FartThankHer,"Farting, Smothering",[PREAMBLE] thank her out loud for each fart she gives you.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID118,FartBegMore,Farting,[PREAMBLE] beg her for another fart in your face.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,2,All,
+ID119,FartCountThem,"Farting, Smothering",[PREAMBLE] count her farts out loud while she sits on your face.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID120,FartHoldBreath,"Farting, Smothering",[PREAMBLE] hold your breath through a long fart then gasp for her gas.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID121,FartLickHoleAfter,"Farting, Butt Worship",[PREAMBLE] lick her butthole right after she farts on you.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,MouthBusy,,,2,"Oral, Service",
+ID122,FartSpreadAim,"Farting, Butt Worship",[PREAMBLE] spread her cheeks and keep your face ready while she aims a fart at you.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,2,"Oral, Service",
+ID123,FartSniffWorship,"Farting, Butt Worship",[PREAMBLE] sniff deep between her cheeks after she farts.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,2,"Oral, Service",
+ID124,FartFaceTrap,"Farting, Smothering",[PREAMBLE] stay trapped under her ass while she fills your face with farts.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID125,FartEyeContactGas,"Farting, Smothering",[PREAMBLE] keep eye contact while she lowers her butt and farts on your face.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID126,FaceSitBurp,"Burping, Smothering",[PREAMBLE] stay under her face while she burps straight into yours.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,10,All,
+ID127,BoobSmotherBurp,"Burping, Smothering",[PREAMBLE] keep your face buried in her tits while she burps over you.,ReadyStep,1,Special_NoIK_BoobSmother,,Yes,Reward,,,,,10,All,
+ID128,BurpInFace,Burping,[PREAMBLE] open your mouth and take her burp in your face.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,12,All,
+ID129,BurpHoldClose,"Burping, Smothering",[PREAMBLE] stay close while she holds you and burps in your face.,ReadyStep,1,Special_Animate_HandShoulders,,No,Reward,,,,,14,All,
+ID130,BurpThankHer,Burping,[PREAMBLE] thank her out loud after she burps on you.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,12,All,
+ID131,BurpBegMore,Burping,[PREAMBLE] beg her to burp in your face again.,,4,Special_Animate_HandShoulders,,No,Reward,,,,,14,All,
+ID132,BurpNosePress,"Burping, Smothering",[PREAMBLE] press your nose up to her mouth while she burps on you.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,10,All,
+ID133,FaceSitPee,"Her Watersports, Smothering",[PREAMBLE] stay under her while she pees on your face.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,5,All,
+ID134,ButtFaceSitPee,"Her Watersports, Smothering",[PREAMBLE] keep her butt on your face while she pisses on you.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,5,All,
+ID135,GoldenShowerHold,"Her Watersports, Smothering",[PREAMBLE] hold still and take her golden shower on your face.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,5,All,
+ID136,OpenMouthPee,"Her Watersports, Smothering",[PREAMBLE] open your mouth under her while she pees on you.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,5,All,
+ID137,PeeThankHer,Her Watersports,[PREAMBLE] thank her for peeing on you.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,5,All,
+ID138,PeeBegMore,"Her Watersports, Smothering",[PREAMBLE] beg her to keep pissing on your face.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,5,All,
+ID139,PeeEyeContact,"Her Watersports, Smothering",[PREAMBLE] keep eye contact while she pees on your face.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,5,All,
+ID140,PeeDrinkCatch,"Her Watersports, Smothering",[PREAMBLE] catch her piss on your tongue while she pees on you.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,MouthBusy,,,5,All,
+ID141,FartGasChamber,"Farting, Smothering",[PREAMBLE] seal your face under her cheeks and take every fart like a gas chamber.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID142,FartTongueOut,"Farting, Smothering",[PREAMBLE] stick your tongue out under her butthole while she farts on it.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID143,FartHandsOff,"Farting, Smothering",[PREAMBLE] keep your hands off yourself and just take her farts on your face.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID144,FartNoTouchGas,"Farting, Smothering",[PREAMBLE] hands behind your back while she sits on your face and farts.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID145,FartLoudSoftGuess,"Farting, Smothering",[PREAMBLE] guess out loud if her next fart will be loud or soft before she lets it go on your face.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID146,FartSmellReport,"Farting, Smothering",[PREAMBLE] describe how her fart smells while she keeps your face trapped under her ass.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID147,FartPraiseGas,"Farting, Smothering",[PREAMBLE] praise her gas out loud after every fart she gives you.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID148,FartBegLouder,Farting,[PREAMBLE] beg her to fart louder right into your face.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,0,All,
+ID149,FartSwallowGas,"Farting, Smothering",[PREAMBLE] open your throat and try to swallow her fart as she pushes it into your mouth.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID150,FartRapidFire,"Farting, Smothering",[PREAMBLE] stay under her for a rapid-fire string of farts with no mercy.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID151,FartCheekSpreadTrap,"Farting, Butt Worship",[PREAMBLE] spread her cheeks wide and keep your nose locked to her hole while she farts.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,0,"Oral, Service",
+ID152,FartAfterKiss,"Farting, Butt Worship",[PREAMBLE] kiss her hole then immediately take the fart she pushes into your face.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,MouthBusy,,,0,"Oral, Service",
+ID153,FartThighLock,"Farting, Smothering",[PREAMBLE] let her thighs lock around your head while she farts on your face.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID154,FartWakeUpSniff,"Farting, Smothering",[PREAMBLE] wake yourself up by sniffing hard every time she farts on you.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID155,FartDizzyHold,"Farting, Smothering",[PREAMBLE] stay under her until her farts make you dizzy then thank her.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID156,FartOnlyAir,"Farting, Smothering",[PREAMBLE] only breathe when she farts - hold your breath between her gas.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID157,FartRankSmell,"Farting, Smothering",[PREAMBLE] rank each fart from 1 to 10 out loud while she sits on your face.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID158,FartAskPermission,Farting,[PREAMBLE] ask permission to smell her next fart then thank her when she gives it.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,2,All,
+ID159,FartNoseDeep,"Farting, Smothering",[PREAMBLE] bury your nose as deep as you can between her cheeks for the next fart.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID160,FartEyesWater,"Farting, Smothering",[PREAMBLE] keep your face pressed up until her fart makes your eyes water.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID161,TortureGasFlood,"Farting, Smothering",[PREAMBLE] endure a full gas flood - she will not lift her ass until she is empty on your face.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID162,TortureHandsOffEdgeDeny,"Farting, Smothering",[PREAMBLE] hands completely off - no edging - just suffer her farts on your face.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID163,TortureBegForGas,Farting,[PREAMBLE] beg shamelessly to be her fart toilet and mean it.,,2,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,0,All,
+ID164,TortureSilentSniff,"Farting, Smothering",[PREAMBLE] do not speak - only sniff and take her farts until she allows you to thank her.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID165,TortureMouthFunnel,"Farting, Smothering",[PREAMBLE] make a seal with your lips on her hole and funnel every fart into your mouth.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID166,TortureCountOrElse,"Farting, Smothering",[PREAMBLE] count every fart correctly - miss one and apologize while she farts again.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID167,TortureAssWorshipGas,"Farting, Butt Worship",[PREAMBLE] worship her ass between farts then open wide for the next one.,,2,Special_Animate_Concern[ButtWorship],,No,Reward,,MouthBusy,,,0,"Oral, Service",
+ID168,TortureNoHandsHard,"Farting, Smothering",[PREAMBLE] stay hard with no hands while she farts on your face - pleasure is not the point.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID169,TortureLongPush,"Farting, Smothering",[PREAMBLE] hold still through one extremely long fart pressed to your nose and mouth.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID170,TortureGasBreak,"Farting, Smothering",[PREAMBLE] this is your break - no stroking - only her butt and her farts.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID171,TortureSpitPolish,"Farting, Butt Worship",[PREAMBLE] spit-polish her hole then take the fart she rewards you with.,,2,Special_Animate_Concern[ButtWorship],,No,Reward,,MouthBusy,,,0,"Oral, Service",
+ID172,TortureFaceOwned,"Farting, Smothering",[PREAMBLE] admit out loud that your face belongs under her ass for farting.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID173,TortureDoublePress,"Farting, Smothering",[PREAMBLE] after each fart press harder into her cheeks and ask for another.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID174,TortureHumiliateSniff,"Farting, Smothering",[PREAMBLE] call yourself her fart sniffer between each blast she gives you.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID175,TortureCameraGas,"Farting, Smothering",[PREAMBLE] keep your face aimed up at her like a camera while she farts down onto you.,ReadyStep,2,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID176,TortureGaspCycle,"Farting, Smothering",[PREAMBLE] gasp clean air only between farts - then dive back under for more gas.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID177,TortureThankToilet,"Farting, Smothering",[PREAMBLE] thank her for using your face as her fart toilet after every push.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID178,TortureNoEdgeBreak,Farting,[PREAMBLE] ignore the urge to edge - focus only on begging for her next fart.,,2,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,0,All,
+ID179,TortureSealAndShake,"Farting, Smothering",[PREAMBLE] keep a tight seal on her cheeks while she shakes out another fart on you.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID180,TortureEnduranceGas,"Farting, Smothering",[PREAMBLE] prove your endurance - take as many farts as she wants without pulling away.,ReadyStep,2,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID181,DutchOvenFart,"Farting, Smothering",[PREAMBLE] stay under the covers for a dutch oven while she farts into your face.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID182,DutchOvenSeal,"Farting, Smothering",[PREAMBLE] do not lift the blanket - take her dutch oven farts trapped against your face.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID183,DutchOvenThank,"Farting, Smothering",[PREAMBLE] thank her for dutch-ovening you while she keeps the covers sealed and farts.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID184,DutchOvenBeg,"Farting, Smothering",[PREAMBLE] beg her not to lift the covers while she fills the dutch oven with farts on your face.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID185,DutchOvenHoldBreath,"Farting, Smothering",[PREAMBLE] hold your breath in her dutch oven then gasp her fart gas when she says.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID186,FartMaskTube,"Farting, Smothering",[PREAMBLE] keep the fart mask sealed on your face while she farts through the tube into it.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID187,FartMaskInhale,"Farting, Smothering",[PREAMBLE] inhale only through the fart mask as she pushes gas through the tube to your face.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID188,FartMaskNoRemove,"Farting, Smothering",[PREAMBLE] do not remove the fart mask - take every blast she sends through the tube.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID189,FartMaskThankTube,"Farting, Smothering",[PREAMBLE] thank her through the fart mask each time she farts down the tube into your face.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID190,FartMaskOpenMouth,"Farting, Smothering",[PREAMBLE] open your mouth inside the fart mask while she fills it with farts through the tube.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID191,FartMaskHandsOff,"Farting, Smothering",[PREAMBLE] hands off - leave the fart mask on while she feeds you farts through the tube.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID192,FartMaskCountBlasts,"Farting, Smothering",[PREAMBLE] count each fart blast that comes through the tube into your fart mask.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID193,FartMaskDutchCombo,"Farting, Smothering",[PREAMBLE] wear the fart mask under the covers for a dutch oven while she farts through the tube into your face.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID194,ButtFaceSitScat,"Scat, Smothering",[PREAMBLE] stay under her while she shits on your face.,ReadyStep,10,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID195,FaceSitScat,"Scat, Smothering",[PREAMBLE] keep still as she lowers herself and shits on you.,ReadyStep,10,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID196,ScatOpenMouth,"Scat, Smothering",[PREAMBLE] open your mouth under her while she feeds you shit.,ReadyStep,12,Special_NoIK_ButtFaceSit,,Yes,Reward,,MouthBusy,,,0,All,
+ID197,ScatHoldStill,"Scat, Smothering",[PREAMBLE] hold still and take her scat on your face.,ReadyStep,10,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID198,ScatBrownShower,"Scat, Smothering",[PREAMBLE] take her brown shower pressed to your face.,ReadyStep,12,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID199,ScatThankHer,Scat,[PREAMBLE] thank her out loud for shitting on you.,ReadyStep,10,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID200,ScatBegMore,"Scat, Smothering",[PREAMBLE] beg her to keep shitting on your face.,ReadyStep,12,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID201,ScatEyeContact,"Scat, Smothering",[PREAMBLE] keep eye contact while she shits on your face.,ReadyStep,10,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID202,ScatTongueOut,"Scat, Smothering",[PREAMBLE] stick your tongue out and take her shit on it.,ReadyStep,12,Special_NoIK_ButtFaceSit,,Yes,Reward,,MouthBusy,,,0,All,
+ID203,ScatWorshipAfter,"Scat, Butt Worship",[PREAMBLE] kiss her butt right after she shits on your face.,,8,Special_Animate_Concern[ButtWorship],,No,Reward,,MouthBusy,,,2,"Oral, Service",
+ID204,ScatNosePress,"Scat, Smothering",[PREAMBLE] press your nose between her cheeks while she shits on you.,ReadyStep,12,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID205,ScatHandsOff,"Scat, Smothering",[PREAMBLE] hands off - just take her scat on your face.,ReadyStep,14,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID206,SkunkSprayFace,"Skunk Girl, Smothering",[PREAMBLE] stay under her while she raises her skunk tail and sprays you in the face.,ReadyStep,12,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID207,SkunkTailTease,"Skunk Girl, Farting",[PREAMBLE] watch her skunk tail lift before she sprays musk at you.,ReadyStep,1,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,2,All,
+ID208,SkunkSprayHold,"Skunk Girl, Smothering",[PREAMBLE] hold still for her skunk spray while her tail is raised over you.,ReadyStep,12,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID209,SkunkSprayThank,"Skunk Girl, Smothering",[PREAMBLE] thank her for the skunk spray after she musk-sprays your face.,ReadyStep,10,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID210,SkunkSprayBeg,"Skunk Girl, Farting",[PREAMBLE] beg the skunk girl to raise her tail and spray you again.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,0,All,
+ID211,SkunkFartCombo,"Skunk Girl, Farting, Smothering",[PREAMBLE] take her skunk spray then her fart while her tail stays raised.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID212,PantyShartFace,"Panty Sharting, Smothering, Farting",[PREAMBLE] stay under her while she sharts in her panties on your face.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID213,PantyShartThrough,"Panty Sharting, Farting, Smothering",[PREAMBLE] feel her shart through her panties pressed to your face.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID214,PantyShartSniff,"Panty Sharting, Farting",[PREAMBLE] sniff her panties after she sharts in them.,ReadyStep,1,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,2,All,
+ID215,PantyShartHold,"Panty Sharting, Smothering",[PREAMBLE] hold still for a long panty shart against your nose.,ReadyStep,1,Special_NoIK_ButtFaceSit,,Yes,Reward,,,,,0,All,
+ID216,PantyShartThank,"Panty Sharting, Farting",[PREAMBLE] thank her for sharting in her panties on you.,ReadyStep,1,Special_NoIK_FaceSit,,Yes,Reward,,,,,0,All,
+ID217,PantyShartBeg,"Panty Sharting, Farting",[PREAMBLE] beg her to shart in her panties for you again.,,1,Special_Animate_Concern[ButtWorship],,No,Reward,,,,,0,All,
+ID225,ArmpitSmotherStink,"Stinky Armpits, Smothering, Armpit",[PREAMBLE] stay trapped in her armpit smother and inhale her pit stink.,ReadyStep,12,Special_NoIK_PitSmother,,Yes,Reward,,,,,0,All,
+ID226,ArmpitSniffDeep,"Stinky Armpits, Armpit",[PREAMBLE] bury your nose in her armpit and sniff her disgusting armpits.,ReadyStep,10,Special_Animate_BackHandsOver,,No,Reward,,MouthBusy,,,0,"Oral, Service",
+ID227,ArmpitLickThenSniff,"Stinky Armpits, Armpit",[PREAMBLE] lick her armpit then sniff her smelly armpits hard.,ReadyStep,10,Special_Animate_BackHandsOver,,No,Reward,,MouthBusy,,,0,"Oral, Service",
+ID228,ArmpitHoldBreath,"Stinky Armpits, Smothering",[PREAMBLE] hold your breath under her armpit smother then gasp her stinky armpits.,ReadyStep,14,Special_NoIK_PitSmother,,Yes,Reward,,,,,0,All,
+ID229,ArmpitThankHer,"Stinky Armpits, Armpit",[PREAMBLE] thank her for armpit torture after sniffing her stinky armpits.,ReadyStep,10,Special_NoIK_PitSmother,,Yes,Reward,,,,,0,All,
+ID230,ArmpitBegMore,"Stinky Armpits, Armpit",[PREAMBLE] beg her to smother you with her disgusting armpits again.,,10,Special_Animate_BackHandsOver,,No,Reward,,,,,0,All,
+ID231,ArmpitNoseLock,"Stinky Armpits, Smothering, Armpit",[PREAMBLE] keep your nose locked in her armpit for her pit stink.,ReadyStep,12,Special_NoIK_PitSmother,,Yes,Reward,,,,,0,All,
+ID218,SockFaceSmother,"Stinky Socks, Smothering, Feet",[PREAMBLE] stay under her feet while she presses her dirty socks onto your face.,ReadyStep,1,Special_NoIK_FaceStomp,,Yes,Reward,,,,,5,All,
+ID219,SockSniffHard,"Stinky Socks, Smothering, Feet",[PREAMBLE] sniff deep while her socked foot stays mashed on your face.,ReadyStep,1,Special_NoIK_FaceStomp,,Yes,Reward,,,,,5,All,
+ID220,SockInhaleTorture,"Stinky Socks, Smothering, Feet",[PREAMBLE] inhale only through her dirty socks as she foot-smothers your face.,ReadyStep,1,Special_NoIK_FaceStomp,,Yes,Reward,,,,,5,All,
+ID221,SockThankHer,"Stinky Socks, Smothering, Feet",[PREAMBLE] thank her for foot-smothering you with her stinky socks.,ReadyStep,1,Special_NoIK_FaceStomp,,Yes,Reward,,,,,5,All,
+ID222,SockBegMore,"Stinky Socks, Smothering, Feet",[PREAMBLE] beg her to keep her dirty socked feet on your face.,ReadyStep,1,Special_NoIK_FaceStomp,,Yes,Reward,,,,,5,All,
+ID223,SockFootPress,"Stinky Socks, Smothering, Feet",[PREAMBLE] take her stinky socked feet pressed hard onto your face.,ReadyStep,1,Special_NoIK_FaceStomp,,Yes,Reward,,,,,5,All,
+ID224,SockCountBreaths,"Stinky Socks, Smothering, Feet",[PREAMBLE] count each breath under her dirty socks while she foot-smothers you.,ReadyStep,1,Special_NoIK_FaceStomp,,Yes,Reward,,,,,5,All,
+ID232,SockSoleGrind,"Stinky Socks, Smothering, Feet",[PREAMBLE] keep still while she grinds her socked sole over your nose and mouth.,ReadyStep,1,Special_NoIK_FaceStomp,,Yes,Reward,,,,,5,All,
+ID233,SockBothFeet,"Stinky Socks, Smothering, Feet",[PREAMBLE] let both of her dirty socked feet cover your face.,ReadyStep,1,Special_NoIK_FaceStomp,,Yes,Reward,,,,,5,All,

@@ -1,0 +1,15 @@
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\bin\Debug\netstandard2.1\MyAssetMod.deps.json
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\bin\Debug\netstandard2.1\MyAssetMod.dll
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\bin\Debug\netstandard2.1\MyAssetMod.pdb
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\obj\Debug\netstandard2.1\AssetMod.csproj.AssemblyReference.cache
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\obj\Debug\netstandard2.1\AssetMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\obj\Debug\netstandard2.1\AssetMod.AssemblyInfoInputs.cache
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\obj\Debug\netstandard2.1\AssetMod.AssemblyInfo.cs
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\obj\Debug\netstandard2.1\AssetMod.csproj.CoreCompileInputs.cache
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\obj\Debug\netstandard2.1\AssetMod.csproj.Up2Date
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\obj\Debug\netstandard2.1\MyAssetMod.dll
+C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\obj\Debug\netstandard2.1\MyAssetMod.pdb

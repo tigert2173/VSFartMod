@@ -1,0 +1,161 @@
+Flag,Interactions,Rename Toy,SinglePart,Status,Task Edging Behaviors,Task Layer Behaviors,Task Rate Multiplier,Task Type Modification,FlagType,Display Flag
+Penis Stimulation,1,0,0,0,1,1,1,1,Kink,Penis Stimulation
+Palming,1,0,0,0,1,1,1,1,Kink,Palming
+Frenulum Stimulation,1,0,0,0,1,1,1,1,Kink,Frenulum Stimulation
+Balls Stimulation,1,0,0,0,1,1,1,1,Kink,Balls Stimulation
+Clitoral Stimulation,1,0,0,0,1,1,1,1,Kink,Clitoral Stimulation
+Vaginal Fingering,1,0,0,0,1,1,1,1,Kink,Vaginal Fingering
+Nipple Stimulation,1,0,0,0,1,1,1,1,Kink,Nipple Stimulation
+Breast Stimulation,1,0,0,0,1,1,1,1,Kink,Breast Stimulation
+Anal Fingering,1,0,0,0,1,1,1,1,Kink,Anal Fingering
+Taint,1,0,0,0,1,1,1,1,Kink,Taint
+Humping,1,0,0,0,1,1,1,1,Kink,Humping
+Caress,1,0,0,0,1,1,1,1,Kink,Caress
+Cock Torture,1,0,0,0,1,1,1,1,Kink,Cock Torture
+Balls Torture,1,0,0,0,1,1,1,1,Kink,Balls Torture
+Clit & Vagina Torture,1,0,0,0,1,1,1,1,Kink,Clit & Vagina Torture
+Nipple Torture,1,0,0,0,1,1,1,1,Kink,Nipple Torture
+Breast Torture,1,0,0,0,1,1,1,1,Kink,Breast Torture
+Pain,1,0,0,0,1,1,1,1,Kink,Pain
+Writing,1,0,1,0,0,0,1,1,Kink,Writing
+Self-Degradation,1,0,1,0,0,0,0,0,Kink,Self-Degradation
+Worship,1,0,1,0,0,0,0,0,Kink,Worship
+Begging,1,0,1,0,0,0,0,0,Kink,Begging
+Apology,1,0,1,0,0,0,0,0,Kink,Apology
+Self-Affirmation,1,0,1,0,0,0,0,0,Kink,Self-Affirmation
+Lust,1,0,1,0,0,0,0,0,Kink,Lust
+Appreciation,1,0,1,0,0,0,0,0,Kink,Appreciation
+Lower Body,1,0,1,0,0,0,1,1,Kink,Lower Body
+Upper Body,1,0,1,0,0,0,1,1,Kink,Upper Body
+Core,1,0,1,0,0,0,1,1,Kink,Core
+Cardio,1,0,1,0,1,0,1,1,Kink,Cardio
+Yoga,1,0,1,0,1,0,1,1,Kink,Yoga
+Tedium,1,0,1,0,1,0,1,1,Kink,Tedium
+Performance,1,0,1,0,1,0,1,1,Kink,Performance
+Juices,1,0,1,0,0,0,1,1,Kink,Juices
+Watersports,1,0,1,0,0,0,1,1,Kink,Watersports
+Cunnilingus,1,0,0,0,1,1,1,1,Kink,Cunnilingus
+Handjob,1,0,0,0,1,1,1,1,Kink,Handjob
+Titjob,1,0,0,0,1,1,1,1,Kink,Titjob
+Thighjob,1,0,0,0,1,1,1,1,Kink,Thighjob
+Assjob,1,0,0,0,1,1,1,1,Kink,Assjob
+Pitjob,1,0,0,0,1,1,1,1,Kink,Pitjob
+Footjob,1,0,0,0,1,1,1,1,Kink,Footjob
+Pussyjob,1,0,0,0,1,1,1,1,Kink,Pussyjob
+Mouth Fingering,1,0,0,0,1,1,1,1,Kink,Mouth Fingering
+Butt Worship,0,0,0,0,0,0,0,0,Kink,Butt Worship
+Breast Worship,0,0,0,0,0,0,0,0,Kink,Breast Worship
+Crotch Worship,0,0,0,0,0,0,0,0,Kink,Crotch Worship
+Belly Worship,0,0,0,0,0,0,0,0,Kink,Belly Worship
+Thigh Worship,0,0,0,0,0,0,0,0,Kink,Thigh Worship
+Feet,0,0,0,0,0,0,0,0,Kink,Feet
+Armpit,0,0,0,0,0,0,0,0,Kink,Armpit
+Smothering,0,0,0,0,0,0,1,1,Kink,Smothering
+Farting,0,0,0,0,0,0,1,1,Kink,Farting
+Burping,0,0,0,0,0,0,1,1,Kink,Burping
+Fart Torture,0,0,0,0,0,0,1,1,Kink,Fart Torture
+Off-hand Penis Stimulation,0,0,0,1,0,0,1,1,Kink,Off-hand Penis Stimulation
+Two-hand Penis Stimulation,0,0,0,1,0,0,1,1,Kink,Two-hand Penis Stimulation
+Creativity,0,0,0,0,0,0,1,1,Kink,Creativity
+Oral Toy,1,1,0,0,1,1,1,1,Toy,Oral Toy
+Sleeve Toy,1,1,0,0,1,1,1,1,Toy,Sleeve Toy
+Small Plug,1,1,0,1,1,1,1,1,Toy,Small Plug
+Medium Plug,1,1,0,1,1,1,1,1,Toy,Medium Plug
+Large Plug,1,1,0,1,1,1,1,1,Toy,Large Plug
+Tail Plug,1,1,0,1,1,1,1,1,Toy,Tail Plug
+Vibrating Plug,1,1,0,1,1,1,1,1,Toy,Vibrating Plug
+Inflatable Plug,1,1,0,1,1,1,1,1,Toy,Inflatable Plug
+Vibrator,1,1,0,0,1,1,1,1,Toy,Vibrator
+Massage Gun,1,1,0,0,1,1,1,1,Toy,Massage Gun
+Small Anal Insertable,1,1,0,0,1,1,1,1,Toy,Small Anal Insertable
+Medium Anal Insertable,1,1,0,0,1,1,1,1,Toy,Medium Anal Insertable
+Large Anal Insertable,1,1,0,0,1,1,1,1,Toy,Large Anal Insertable
+Vibrating Anal Insertable,1,1,0,0,1,1,1,1,Toy,Vibrating Anal Insertable
+Knotted Anal Insertable,1,1,0,0,1,1,1,1,Toy,Knotted Anal Insertable
+Anal Beads,1,1,1,0,0,0,1,1,Toy,Anal Beads
+Vaginal Plug,1,1,0,1,1,1,1,1,Toy,Vaginal Plug
+Inserted Vaginal Vibe,1,1,0,1,1,1,1,1,Toy,Inserted Vaginal Vibe
+Small Vaginal Insertable,1,1,0,0,1,1,1,1,Toy,Small Vaginal Insertable
+Medium Vaginal Insertable,1,1,0,0,1,1,1,1,Toy,Medium Vaginal Insertable
+Large Vaginal Insertable,1,1,0,0,1,1,1,1,Toy,Large Vaginal Insertable
+Vibrating Vaginal Insertable,1,1,0,0,1,1,1,1,Toy,Vibrating Vaginal Insertable
+Knotted Vaginal Insertable,1,1,0,0,1,1,1,1,Toy,Knotted Vaginal Insertable
+Cumtube,1,1,1,0,0,0,1,1,Toy,Cumtube
+Chastity Device,1,1,0,1,1,1,1,1,Toy,Chastity Device
+Service Toy,0,1,0,0,0,0,1,1,Toy,Service Toy
+Service Sleeve,0,1,0,0,0,0,1,1,Toy,Service Sleeve
+Sybian,1,1,0,1,1,1,1,1,Toy,Sybian
+Double Anal Insertable,1,1,1,0,1,0,1,1,Toy,Double Anal Insertable
+Double Vaginal Insertable,1,1,1,0,1,0,1,1,Toy,Double Vaginal Insertable
+Double Oral Insertable,1,1,1,0,1,0,1,1,Toy,Double Oral Insertable
+BDSM Candle,1,1,1,0,0,0,1,1,Toy,BDSM Candle
+Nipple Clamps,1,1,0,1,1,1,1,1,Toy,Nipple Clamps
+Whip,0,1,0,0,0,0,1,0,Toy,Whip
+Cane,0,1,0,0,0,0,1,0,Toy,Cane
+Paddle,0,1,0,0,0,0,1,0,Toy,Paddle
+Crop,0,1,0,0,0,0,1,0,Toy,Crop
+Flogger,0,1,0,0,0,0,1,0,Toy,Flogger
+Poker,0,1,0,0,0,0,1,0,Toy,Poker
+Pinwheel,0,1,0,0,0,0,1,0,Toy,Pinwheel
+Zapper,0,1,0,0,0,0,1,0,Toy,Zapper
+Belt,0,1,0,0,0,0,1,1,Toy,Belt
+Rubber Bands,0,1,0,0,0,0,1,0,Toy,Rubber Bands
+Fork,0,1,0,0,0,0,1,0,Toy,Fork
+Toothbrush,0,1,0,0,0,0,1,0,Toy,Toothbrush
+Hairbrush,0,1,0,0,0,0,1,0,Toy,Hairbrush
+Penis Pump,1,1,1,0,1,0,1,1,Toy,Penis Pump
+Clit Pump,1,1,1,0,1,0,1,1,Toy,Clit Pump
+Vagina Pump,1,1,1,0,1,0,1,1,Toy,Vagina Pump
+Nipple Pump,1,1,1,0,1,0,1,1,Toy,Nipple Pump
+Leash,1,1,0,1,1,1,1,1,Toy,Leash
+Strapon,1,1,0,1,1,1,1,1,Toy,Strapon
+Permanent Marker,1,1,1,0,0,0,1,1,Toy,Permanent Marker
+Panties,1,1,0,0,1,1,1,1,Toy,Panties
+Socks,1,1,0,0,1,1,1,1,Toy,Socks
+Ice Cubes,1,1,1,0,1,1,1,1,Toy,Ice Cubes
+Footwear,1,1,0,0,1,1,1,1,Toy,Footwear
+Chew Toy,1,1,0,0,1,1,1,1,Toy,Chew Toy
+Wet and Messy,1,0,1,0,0,0,1,1,Toy,Wet and Messy
+Whipped Cream,1,1,1,0,0,0,1,1,Toy,Whipped Cream
+Enema,0,1,0,1,0,0,1,1,Toy,Enema
+Tickler,1,1,0,0,1,1,1,1,Toy,Tickler
+Handcuffs,0,1,0,1,0,0,1,1,Toy,Handcuffs
+Gag,0,1,0,1,0,0,1,1,Toy,Gag
+Ring Gag,0,1,0,1,0,0,1,1,Toy,Ring Gag
+Inflatable Gag,0,1,0,1,0,0,1,1,Toy,Inflatable Gag
+Ankle Cuffs,0,1,0,1,0,0,1,1,Toy,Ankle Cuffs
+Tape,0,1,0,0,0,0,1,1,Toy,Tape
+Rope,0,1,0,0,0,0,1,1,Toy,Rope
+String,0,1,0,0,0,0,1,1,Toy,String
+Shackles,0,1,0,1,0,0,1,1,Toy,Shackles
+Cock Ring,0,1,0,1,0,0,1,1,Toy,Cock Ring
+Humbler,0,1,0,1,0,0,1,1,Toy,Humbler
+Ball Press,0,1,0,1,0,0,1,1,Toy,Ball Press
+Chopsticks,0,1,0,1,0,0,1,1,Toy,Chopsticks
+Clothespins,0,1,0,0,0,0,1,1,Toy,Clothespins
+Figging,0,1,0,0,0,0,1,1,Toy,Figging
+Condoms,0,1,0,1,0,0,1,1,Toy,Condoms
+Straw,0,1,0,1,0,0,1,1,Toy,Straw
+Mirror,0,1,0,1,0,0,1,1,Toy,Mirror
+VR Rhythm Games,0,1,0,0,0,0,1,1,Toy,VR Rhythm Games
+Fucking Machine,0,1,0,0,0,0,1,1,Toy,Fucking Machine
+Nipple Stimulators,0,1,0,1,0,0,1,1,Toy,Nipple Stimulators
+Urgedog,0,0,0,0,0,0,0,0,Other,Puppy-Speak
+Urgecat,0,0,0,0,0,0,0,0,Other,Kitty-Speak
+Urgepig,0,0,0,0,0,0,0,0,Other,Piggy-Speak
+ORDERTYPEBARK,0,0,0,0,0,0,0,0,Other,Orders: Bark
+ORDERTYPEMEOW,0,0,0,0,0,0,0,0,Other,Orders: Meow
+ORDERTYPEOINK,0,0,0,0,0,0,0,0,Other,Orders: Oink
+CEIJUICE,0,0,0,0,0,0,0,0,Other,Change Cum To Juices
+Scat,0,0,0,0,0,0,2,1,Kink,Scat
+Skunk Girl,0,0,0,0,0,0,2,1,Kink,Skunk Girl
+Panty Sharting,0,0,0,0,0,0,2,1,Kink,Panty Sharting
+Stinky Socks,0,0,0,0,0,0,2,1,Kink,Stinky Socks
+Stinky Armpits,0,0,0,0,0,0,2,1,Kink,Stinky Armpits
+Her Watersports,0,0,0,0,0,0,2,1,Kink,Her Watersports
+No Blackout Smothering,0,0,0,0,0,0,0,0,Kink,No Blackout Smothering
+Low Gas,0,0,0,0,0,0,0,0,Kink,Low Gas
+Medium Gas,0,0,0,0,0,0,0,0,Kink,Medium Gas
+High Gas,0,0,0,0,0,0,0,0,Kink,High Gas
+Constant Gas,0,0,0,0,0,0,0,0,Kink,Constant Gas
+Random Gas,0,0,0,0,0,0,0,0,Kink,Random Gas

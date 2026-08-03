@@ -1,0 +1,21 @@
+VSFartMod — user install package
+================================
+
+Requires: BepInEx Unity Mono 6 in the game root first.
+
+Copy into your game like this:
+
+1. Install\BepInEx\plugins\VSFartMod.dll
+   →  <GameRoot>\BepInEx\plugins\VSFartMod.dll
+
+2. Everything in Install\StreamingAssets\
+   →  <GameRoot>\Virtual Succubus_Data\StreamingAssets\
+
+   So you end up with:
+     StreamingAssets\vsfartmod
+     StreamingAssets\vsfartmod.bundle   (optional duplicate)
+     StreamingAssets\VSFartSounds\...   (WAVs, CSVs, NewLogo.png)
+
+Do NOT rename VSFartSounds to VSFartMod (Windows path clash with vsfartmod).
+
+Then launch the game and enable kinks under Content Select → Kinks.

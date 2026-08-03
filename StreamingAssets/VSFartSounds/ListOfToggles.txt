@@ -1,0 +1,154 @@
+Toggle,Internal Name,Toy or Kink
+Oral Toy,Oral Toy,Toy
+Sleeve Toy,Sleeve Toy,Toy
+Small Plug,smallplug,Toy
+Medium Plug,mediumplug,Toy
+Large Plug,largeplug,Toy
+Tail Plug,tailplug,Toy
+Vibrating Plug,vibratingplug,Toy
+Inflatable Plug,inflatableplug,Toy
+Vibrator,Vibrator,Toy
+Massage Gun,Massage Gun,Toy
+Small Anal Insertable,smallanalinsertable,Toy
+Medium Anal Insertable,mediumanalinsertable,Toy
+Large Anal Insertable,largeanalinsertable,Toy
+Vibrating Anal Insertable,vibratinganalinsertable,Toy
+Knotted Anal Insertable,knottedanalinsertable,Toy
+Anal Beads,analBeads,Toy
+Vaginal Plug,vaginalplug,Toy
+Inserted Vaginal Vibe,Inserted Vaginal Vibe,Toy
+Small Vaginal Insertable,smallvaginalinsertable,Toy
+Medium Vaginal Insertable,mediumvaginalinsertable,Toy
+Large Vaginal Insertable,largevaginalinsertable,Toy
+Vibrating Vaginal Insertable,vibratingvaginalinsertable,Toy
+Knotted Vaginal Insertable,knottedvaginalinsertable,Toy
+Cumtube,Cumtube,Toy
+Chastity Device,Chastity Device,Toy
+Service Toy,Service Toy,Toy
+Service Sleeve,Service Sleeve,Toy
+Sybian,Sybian,Toy
+Double Anal Insertable,doubleanalinsertable,Toy
+Double Vaginal Insertable,doublevaginalinsertable,Toy
+Double Oral Insertable,doubleoralinsertable,Toy
+BDSM Candle,BDSM Candle,Toy
+Nipple Clamps,Nipple Clamps,Toy
+Whip,Whip,Toy
+Cane,Cane,Toy
+Paddle,Paddle,Toy
+Crop,Crop,Toy
+Flogger,Flogger,Toy
+Poker,Poker,Toy
+Pinwheel,Pinwheel,Toy
+Zapper,Zapper,Toy
+Belt,Belt,Toy
+Rubber Bands,Rubber Bands,Toy
+Fork,Fork,Toy
+Toothbrush,Toothbrush,Toy
+Hairbrush,Hairbrush,Toy
+Penis Pump,Penis Pump,Toy
+Clit Plump,Clit Plump,Toy
+Vagina Pump,Vagina Pump,Toy
+Nipple Pump,Nipple Pump,Toy
+Leash,Leash,Toy
+Strapon,Strapon,Toy
+Permanent Marker,Permanent Marker,Toy
+Panties,Panties,Toy
+Socks,Socks,Toy
+Ice Cubes,Ice Cubes,Toy
+Footwear,Footwear,Toy
+Chew Toy,Chew Toy,Toy
+Wet and Messy,Wet and Messy,Toy
+Whipped Cream,whipped Cream,Toy
+Enema,Enema,Toy
+Tickler,Tickler,Toy
+Handcuffs,Handcuffs,Toy
+Gag,Gag,Toy
+Ring Gag,Ring gag,Toy
+Inflatable Gag,Inflatable gag,Toy
+Ankle Cuffs,Ankle Cuffs,Toy
+Tape,Tape,Toy
+Rope,Rope,Toy
+String,String,Toy
+Shackles,Shackles,Toy
+Cock Ring,Cock Ring,Toy
+Humbler,Humbler,Toy
+Ball Press,Ball Press,Toy
+Chopsticks,Chopsticks,Toy
+Clothespins,Clothespins,Toy
+Figging,Figging,Toy
+Condoms,Condoms,Toy
+Straw,Straw,Toy
+Mirror,Mirror,Toy
+VR Rhythm Games,VR Rhythm Games,Toy
+Fucking Machine,Fucking Machine,Toy
+Nipple Stimulators,Nipple Stimulators,Toy
+Penis Stimulation,Penis Stimulation,Kink
+Palming,Palming,Kink
+Frenulum Stimulation,Frenulum Stimulation,Kink
+Balls Stimulation,Balls Stimulation,Kink
+Clitoral Stimulation,Clitoral Stimulation,Kink
+Vaginal Fingering,Vaginal Fingering,Kink
+Nipple Stimulation,Nipple Stimulation,Kink
+Breast Stimulation,Breast Stimulation,Kink
+Anal Fingering,analfingering,Kink
+Taint,Taint,Kink
+Humping,Humping,Kink
+Caress,Caress,Kink
+Cock Torture,CBT: Cock,Kink
+Balls Torture,CBT: Balls,Kink
+Clit & Vagina Torture,Clit & Vagina Torture,Kink
+Nipple Torture,Nipple Torture,Kink
+Breast Torture,Breast Torture,Kink
+Pain,Pain,Kink
+Writing,Writing,Kink
+Self-Degradation,Self-Degradation,Kink
+Worship,SpokenWorship,Kink
+Begging,Begging,Kink
+Apology,Apology,Kink
+Self-Affirmation,Self-Affirmation,Kink
+Lust,Lust,Kink
+Appreciation,Appreciation,Kink
+Lower Body,ExerciseLowerBody,Kink
+Upper Body,ExerciseUpperBody,Kink
+Core,ExerciseCore,Kink
+Cardio,ExerciseCardio,Kink
+Yoga,ExerciseYoga,Kink
+Tedium,Tedium,Kink
+Performance,Performance,Kink
+Juices,Juices,Kink
+Watersports,Watersports,Kink
+Cunnilingus,Cunnilingus,Kink
+Handjob,Handjob,Kink
+Titjob,Titjob,Kink
+Thighjob,Thighjob,Kink
+Assjob,Assjob,Kink
+Pitjob,Pitjob,Kink
+Footjob,Footjob,Kink
+Pussyjob,Pussyjob,Kink
+Mouth Fingering,Mouth Fingering,Kink
+Butt Worship,Butt Worship,Kink
+Breast Worship,Breast Worship,Kink
+Crotch Worship,Crotch Worship,Kink
+Belly Worship,Belly Worship,Kink
+Thigh Worship,Thigh Worship,Kink
+Feet,Feet,Kink
+Armpit,Armpit,Kink
+Smothering,Smothering,Kink
+Farting,Farting,Kink
+Burping,Burping,Kink
+Fart Torture,Fart Torture,Kink
+Off-hand Penis Stimulation,StrokeOffhand,Kink
+Two-hand Penis Stimulation,StrokeTwoHand,Kink
+Creativity,Creativity,Kink
+Scat,Scat,Kink
+Skunk Girl,Skunk Girl,Kink
+Panty Sharting,Panty Sharting,Kink
+Stinky Socks,Stinky Socks,Kink
+Stinky Armpits,Stinky Armpits,Kink
+Her Watersports,Her Watersports,Kink
+No Blackout Smothering,No Blackout Smothering,Kink
+Low Gas,Low Gas,Kink
+Medium Gas,Medium Gas,Kink
+High Gas,High Gas,Kink
+Constant Gas,Constant Gas,Kink
+Random Gas,Random Gas,Kink

@@ -1,0 +1,115 @@
+ManifestFileVersion: 0
+CRC: 1665823836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ece9dc466a19b13bc1d95da51441849
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4759ba4495bc6bcb694e6a57302d49ef
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9ece9dc466a19b13bc1d95da51441849
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1384774831, guid: daca89c25bd1813ceecbbbb8555342a7, type: 3}
+- Class: 114
+  Script: {fileID: 1453722849, guid: 67dfb1fdfb2b407222eda8e23ac8b724, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78cd1b3c79c5655e1af5bfef56c58c4f, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f89c2568d5c66f2d4c1839bd914aaeb0, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
+  Script: {fileID: 1079068393, guid: daca89c25bd1813ceecbbbb8555342a7, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: d3e719b59ab71ba3f6b398058c866280, type: 3}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/Farts/Fart_41_rumble.wav
+- Assets/Audio/Farts/Fart_12_wet.wav
+- Assets/Audio/Farts/Fart_03_wet.wav
+- Assets/Audio/Farts/Fart_11_rasp.wav
+- Assets/Audio/Farts/Fart_13_squeak.wav
+- Assets/Audio/Farts/Fart_45_mixed.wav
+- Assets/Audio/Farts/Fart_06_flutter.wav
+- Assets/Audio/Farts/Fart_48_wet.wav
+- Assets/Audio/Farts/Fart_01_toot.wav
+- Assets/Audio/Farts/Fart_35_burst.wav
+- Assets/Audio/Farts/Fart_14_rumble.wav
+- Assets/Audio/Farts/Fart_25_hollow.wav
+- Assets/Audio/Farts/Fart_46_toot.wav
+- Assets/Audio/Farts/Fart_33_flutter.wav
+- Assets/Audio/Farts/Fart_26_burst.wav
+- Assets/Textures/Effects/FartGasSoft.png
+- Assets/Audio/Farts/Fart_30_wet.wav
+- Assets/Audio/Farts/Fart_21_wet.wav
+- Assets/Audio/Farts/Fart_32_rumble.wav
+- Assets/Audio/Farts/Fart_34_hollow.wav
+- Assets/Audio/Farts/Fart_27_mixed.wav
+- Assets/Audio/Farts/Fart_22_squeak.wav
+- Assets/Audio/Farts/Fart_47_rasp.wav
+- Assets/Audio/Farts/Fart_08_burst.wav
+- Assets/Audio/Farts/Fart_42_flutter.wav
+- Assets/Audio/Farts/Fart_05_rumble.wav
+- Assets/Audio/Farts/Fart_39_wet.wav
+- Assets/Audio/Farts/Fart_04_squeak.wav
+- Assets/Audio/Farts/Fart_38_rasp.wav
+- Assets/Audio/Farts/Fart_24_flutter.wav
+- Assets/Audio/Farts/Fart_23_rumble.wav
+- Assets/Audio/Farts/Fart_40_squeak.wav
+- Assets/Audio/Farts/Fart_19_toot.wav
+- Assets/Audio/Farts/Fart_20_rasp.wav
+- Assets/Audio/Farts/Fart_18_mixed.wav
+- Assets/Audio/Farts/Fart_43_hollow.wav
+- Assets/Audio/Farts/Fart_31_squeak.wav
+- Assets/Audio/Farts/Fart_29_rasp.wav
+- Assets/Audio/Farts/Fart_02_rasp.wav
+- Assets/Audio/Farts/Fart_37_toot.wav
+- Assets/Audio/Farts/Fart_44_burst.wav
+- Assets/Audio/Farts/Fart_36_mixed.wav
+- Assets/Audio/Farts/Fart_17_burst.wav
+- Assets/Audio/Farts/Fart_16_hollow.wav
+- Assets/Audio/Farts/Fart_28_toot.wav
+- Assets/Audio/Farts/Fart_10_toot.wav
+- Assets/Audio/Farts/Fart_07_hollow.wav
+- Assets/Resources/ContentSelectMenu.prefab
+- Assets/Audio/Farts/Fart_15_flutter.wav
+- Assets/Audio/Farts/Fart_09_mixed.wav
+Dependencies: []

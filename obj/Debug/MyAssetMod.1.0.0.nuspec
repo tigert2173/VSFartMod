@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyAssetMod</id>
+    <version>1.0.0</version>
+    <authors>MyAssetMod</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="BepInEx.PluginInfoProps" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="BepInEx.Unity.Mono" version="6.0.0-be.733" exclude="Runtime,Build,Native,Analyzers,BuildTransitive" />
+        <dependency id="UnityEngine.Modules" version="2022.3.8" exclude="Runtime,Build,Native,Analyzers,BuildTransitive" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Tiger\source\repos\VS48FartMod\AssetModTemplate\bin\Debug\netstandard2.1\MyAssetMod.dll" target="lib\netstandard2.1\MyAssetMod.dll" />
+  </files>
+</package>
